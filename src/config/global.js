@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Gestión de información de la calidad',
+    Description:
+      'Las inspecciones de calidad requieren la medición de características propias de la calidad, así como de los componentes y materiales con los que se elabora la producción. Los sistemas de inspección permiten confirmar la eficacia del sistema de control de calidad y la tecnología mejora este proceso al interior de la empresa.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -31,28 +32,20 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Gestión de información de las inspecciones de calidad',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Herramientas TIC para registro de información',
             hash: 't_1_1',
           },
+          {
+            numero: '1.2',
+            titulo: 'Sistema de información de calidad',
+            hash: 't_1_2',
+          },
         ],
-      },
-
-      {
-        nombreRuta: 'tema2',
-        numero: '2',
-        titulo: 'Tema 2',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Tema 3',
-        desarrolloContenidos: true,
       },
     ],
     subMenu: [
@@ -105,13 +98,57 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Atributo',
+      significado:
+        'cualquier característica de calidad que pueda ser clasificada de forma cumple o no cumple, funciona o no funciona, pasa o no pasa, a efectos de control del proceso será considerado como un atributo. Barbosa (2016, p. 33).',
+    },
+    {
+      termino: '<em>Blockchain</em>',
+      significado:
+        'información organizada en bloques y entrelazadas en forma de cadenas, encriptada con el fin que nunca se pierda asegurando su seguridad.',
+    },
+    {
+      termino: 'Capacidad de un proceso',
+      significado:
+        'es la aptitud de producir una prenda que cumpla con los requisitos determinados en los límites.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Barbosa Correa, R. (2016). Monitoreo y análisis estadístico de proceso con aplicaciones. Universidad del Norte.',
+      link: '',
+    },
+    {
+      referencia: 'Salazar, B. (2019). Capacidad de procesos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Cortés, M. (2017). Ocho tecnologías que están transformando las bases de datos. REVISTA CIO MÉXICO.',
+      link: '',
+    },
+    {
+      referencia: 'Estadísticas de SPSS. Estadísticas de IBM SPSS. (2020).',
+      link: '',
+    },
+    {
+      referencia:
+        'Oficina de Evaluación del PNUD. (2009). Manual de seguimiento y evaluación de resultados. B - PNUD.',
+      link: '',
+    },
+    {
+      referencia:
+        'Pérez Marqués, M. (2016). Control de Calidad Técnicas y herramientas (1ª ed.). Editor Alfaomega Grupo.',
+      link: '',
+    },
+    {
+      referencia:
+        'SAS. SAS: Analítica, inteligencia artificial y gestión de datos. (2020). ',
+      link: '',
+    },
+    {
+      referencia: 'STATGRAPHICS.NET. STATGRAPHICS Centurion 18. (2020).',
       link: '',
     },
   ],
@@ -121,8 +158,9 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
@@ -145,17 +183,17 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '--',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '--',
-          cargo: 'Desarrollador <em>full stack</em>',
+          nombre: 'Andrea Paola Botello De la Rosa',
+          cargo: 'Desarrolladora <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Maria Alejandra Vera Briceño',
+          nombre: ' ',
           cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -165,12 +203,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Erika Daniela Manrique Rueda',
+          nombre: ' ',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: ' ',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
