@@ -165,28 +165,28 @@
       .col-lg-3.col-md-6.mb-3
         .tarjeta--boton.bg4.p-4.h-100
           .row.justify-content-center.mb-3
-            .col-7.col-lg-7
+            .col-5.col-md-7.col-lg-7
               img(src='@/assets/curso/temas/t1/tarj2-1.png', alt='')
           h4.text-center Entrada
           p.text-center.mb-0 Ingreso de datos.
       .col-lg-3.col-md-6.mb-3
         .tarjeta--boton.bg4.p-4.h-100
           .row.justify-content-center.mb-3
-            .col-7.col-lg-7
+            .col-5.col-md-7.col-lg-7
               img(src='@/assets/curso/temas/t1/tarj2-2.png', alt='')
           h4.text-center Proceso
           p.text-center.mb-0 Uso de herramientas para realizar cálculos donde se puede relacionar, resumir, analizar y concluir la información recolectada.
       .col-lg-3.col-md-6.mb-3
         .tarjeta--boton.bg4.p-4.h-100
           .row.justify-content-center.mb-3
-            .col-7.col-lg-7
+            .col-5.col-md-7.col-lg-7
               img(src='@/assets/curso/temas/t1/tarj2-3.png', alt='')
           h4.text-center Salida
           p.text-center.mb-0 Presentación de los resultados obtenidos con la utilización de las herramientas.
       .col-lg-3.col-md-6.mb-3
         .tarjeta--boton.bg4.p-4.h-100
           .row.justify-content-center.mb-3
-            .col-7.col-lg-7
+            .col-5.col-md-7.col-lg-7
               img(src='@/assets/curso/temas/t1/tarj2-4.png', alt='')
           h4.text-center Retroalimentación
           p.text-center.mb-0 Donde se toman los resultados para presentar los informes y tomar acciones correctivas y de mejoramiento.
@@ -230,7 +230,7 @@
                 img(src='@/assets/curso/temas/t1/infog.svg', alt='')
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-1.col-md-2.col-4.mb-3.mb-md-0(data-aos="fade-right")
+      .col-lg-1.col-md-2.col-4.mb-3.mb-md-0.d-none.d-md-block(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/11.png', alt='')
       .col-lg-11.col-md-10(data-aos="fade-left")
         p.mb-0 El sistema de información de calidad integra a las personas del departamento de calidad, los procedimientos y la tecnología; las cuales, al interactuar, comprenden la información contenida en los archivos y formatos, sean físicos o digitales; en el caso de información en físico se dispone de un espacio, un lugar por carpetas rotuladas. En el caso de la información manejada en digital, se dispone de un lugar en los computadores o en la nube, la cual debe estar organizada por carpetas debidamente rotuladas y con los permisos especificados para su disposición.
@@ -290,7 +290,7 @@
     p.mb-4 El seguimiento de estos reportes hace parte del sistema de información de calidad de la empresa, los cuales deben ser monitoreados y valorados por el equipo de calidad con el fin de incluir en los planes de calidad las acciones de mejora.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-5(data-aos="fade-right")
+      .col-lg-5.d-none.d-lg-block(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/13.png', alt='')
       .col-lg-7(data-aos="fade-left")
         p Se desarrolla un formato que recopile la información necesaria, la cual será útil en la toma de decisiones. El formato debe contener:
@@ -346,30 +346,30 @@
       .col-lg-3.col-md-6.mb-3
         .indic1.p-3.px-5
           .row.justify-content-center.align-items-center
-            .col-lg-5
+            .col-lg-5.col-md-4.col-4
               img(src='@/assets/curso/temas/t1/tarj4-1.png', alt='')
-            .col-lg-7
+            .col-lg-7.col-md-8.col-8
               p.mb-0 Diligenciar formato de inspecciones.
       .col-lg-3.col-md-6.mb-3
         .indic2.p-3.px-5
           .row.justify-content-center.align-items-center
-            .col-lg-5
+            .col-lg-5.col-md-4.col-4
               img(src='@/assets/curso/temas/t1/tarj4-2.png', alt='')
-            .col-lg-7
+            .col-lg-7.col-md-8.col-8
               p.mb-0 Organizar la información y los formatos.
       .col-lg-3.col-md-6.mb-3
         .indic3.p-3.px-5
           .row.justify-content-center.align-items-center
-            .col-lg-5
+            .col-lg-5.col-md-4.col-4
               img(src='@/assets/curso/temas/t1/tarj4-3.png', alt='')
-            .col-lg-7
+            .col-lg-7.col-md-8.col-8
               p.mb-0 Ingresar la información al sistema.
       .col-lg-3.col-md-6.mb-3
         .indic4.p-3.px-5
           .row.justify-content-center.align-items-center
-            .col-lg-5
+            .col-lg-5.col-md-4.col-4
               img(src='@/assets/curso/temas/t1/tarj4-4.png', alt='')
-            .col-lg-7
+            .col-lg-7.col-md-8.col-8
               p.text-white.mb-0 Clasificar Ia información.
     
     p El manejo de la documentación de calidad dentro de un sistema de gestión debe obedecer a dicho procedimiento, con el fin de apoyar al sistema de gestión y aportar las evidencias requeridas para mantener una óptima comunicación y el control del sistema de gestión de calidad. Así mismo, se debe tener en cuenta la gestión documental obedeciendo a las tablas de retención documental con la intención de no ir en contravía de los tiempos estipulados de retención y la clasificación según la numeración especificada.
@@ -408,7 +408,7 @@
       h3.mb-0 Compartir información
 
     .row.justify-content-center.mb-4(data-aos="fade")
-      .col-lg-5.pe-lg-0
+      .col-lg-5.pe-lg-0.d-none.d-lg-block
         img(src='@/assets/curso/temas/t1/17.png', alt='')
       .col-lg-7.ps-lg-0
         .bg5.p-4.h-100
@@ -419,25 +419,25 @@
     p Antes de compartir la información se debe revisar que cumpla con las siguientes características:      
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3.mb-3
+      .col-lg-3.col-md-6.mb-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t1/tarj5-1.png' alt='')
           .tarjeta.bg3.w-100
             .p-4
               h4.text-center.mb-0 Confiabilidad.
-      .col-lg-3.mb-3
+      .col-lg-3.col-md-6.mb-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t1/tarj5-2.png' alt='')
           .tarjeta.bg3.w-100
             .p-4
               h4.text-center.mb-0 Precisión, sin ambigüedades.
-      .col-lg-3.mb-3
+      .col-lg-3.col-md-6.mb-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t1/tarj5-3.png' alt='')
           .tarjeta.bg3.w-100
             .p-4
               h4.text-center.mb-0 Oportunidad.
-      .col-lg-3.mb-3
+      .col-lg-3.col-md-6.mb-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t1/tarj5-4.png' alt='')
           .tarjeta.bg3.w-100
@@ -457,7 +457,7 @@
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/t1/19.svg' alt='')
       .col-lg-5
-        .deco.mb-3
+        .deco.mb-3.d-none.d-lg-block
         p Teniendo en cuenta lo anterior pueden consultar conforme a los siguientes requisitos:
         ul.lista-ul.fa-lista.list-ico
           li.mb-lg-4
@@ -490,7 +490,7 @@
         .tarjeta--container.row
           .col-md.tarjeta.color-secundario.p-4
             .row.justify-content-center.mb-4
-              .col-4.col-lg-4.col-md-3
+              .col-4.col-lg-4.col-md-5
                 img(src='@/assets/curso/temas/t1/tarj6-1.svg', alt='')            
             p.text-white Algunos propósitos del seguimiento son:
             ul.lista-ul--color.fa-lista.mb-0
@@ -508,7 +508,7 @@
                 span.mb-0.text-white Dar la importancia a las evidencias recolectadas.
           .col-md.tarjeta.bg7.p-4
             .row.justify-content-center.mb-4
-              .col-4.col-lg-4.col-md-3
+              .col-4.col-lg-4.col-md-5
                 img(src='@/assets/curso/temas/t1/tarj6-1.svg', alt='')            
             p.text-white El seguimiento es la base para la evaluación de calidad, por eso se deben tener en cuenta algunas claves:
             ul.lista-ul--color.fa-lista.mb-0
@@ -532,7 +532,7 @@
     p.mb-4 La evaluación está relacionada al monitoreo y seguimiento, se debe tener en cuenta que se realiza de forma periódica, la cual puede ser anual o conforme a los periodos de las colecciones de las prendas. Es el insumo para la planeación de la producción anual y contribuye a la realización de nuevas estrategias
 
     .row.justify-content-center.mb-4
-      .col-lg-5(data-aos="fade-right")
+      .col-lg-5.d-none.d-lg-block(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/21.png', alt='')
       .col-lg-7(data-aos="fade-left")
         p Para evaluar la capacidad de un proceso se recurre a las herramientas de calidad, como histogramas, gráficos de control o planillas de inspección.
@@ -576,26 +576,26 @@
 
     .row.justify-content-center.mb-4
       .col-lg-6
-        .bg8.tarjeta.p-4
+        .bg8.tarjeta.p-4.mb-4.mb-lg-0
           .row.justify-content-center.align-items-center
-            .col-lg-6
+            .col-lg-6.col-md-6.mb-3.mb-md-0
               .bg1.p-4.d-flex.justify-content-center
                 .formula
                   span.label Cp =
                   .fraction
                     .top LES - LEI
                     .bottom 6σ
-            .col-lg-6              
+            .col-lg-6.col-md-6              
               p.mb-0 Donde:
               p.mb-0 LES = Es el límite superior
               p.mb-0 LEI = Es el límite inferior
       .col-lg-6
         .row.justify-content-center.align-items-center.mb-4
-          .col-lg-auto 
+          .col-auto 
             p.mb-0 σ = Desviación estándar
-          .col-lg-auto 
+          .col-auto 
             p.mb-0 ⮕
-          .col-lg-auto 
+          .col-auto 
             .formula
               span.label σ =
               .fraction
@@ -701,9 +701,235 @@
 
     p.mb-4 Para analizar el proceso, incluyendo la media del proceso se calcula el CPK es decir el índice de capacidad real, el cual es el valor menor entre CPU y CPL, a continuación, se muestra las dos fórmulas:
 
-
+    .row.justify-content-center.mb-4(data-aos="fade")
+      .col-lg-6.mb-4.mb-lg-0
+        .tarjeta.bg3.p-4.h-100.d-flex.flex-column.justify-content-center
+          .row.justify-content-center.align-items-center
+            .col-lg-6
+              .bg1.p-2.pt-3.d-flex.justify-content-center
+                .formula
+                  span.label Cpu = 
+                  .fraction
+                    .top.px-3 LES - #[b μ]
+                    .bottom.px-3 #[b 3σ]
+              .bg1.p-2.pb-3.d-flex.justify-content-center.mb-4
+                .formula
+                  span.label Cpl = 
+                  .fraction
+                    .top.px-3 #[b μ] - LEI
+                    .bottom.px-3 #[b 3σ]
+              p.mb-0 Donde #[b μ] = Media de la especificación    
+            .col-lg-6             
+              p.mb-0 Se concluye que un proceso está centrado cuando los índices de capacidad potencial y el índice de capacidad real son iguales. A continuación, se puede observar en el cuadro los resultados y el análisis según el resultado de CPK.
+      .col-lg-6
+        .tarjeta.color-acento-contenido--borde.p-3.h-100
+          h4.text-center ANÁLISIS DE ÍNDlCE DE CAPACIDAD POTENCIAL
+          table
+            thead
+              tr.text-center
+                th.w-25.h5 Valor del CPK
+                th.h5 Análisis
+            tbody
+              tr
+                td Mayor a 1
+                td Las prendas cumplen con las especificaciones.
+              tr
+                td Menor de 1
+                td Las prendas no cumplen con las especificaciones, se debe realizar cambios en el proceso.
+              tr
+                td Menor e igual a 0
+                td La media del proceso está fuera de las especificaciones, se deben realizar grandes cambios en el proceso.
+        
+    p Se puede hablar de dos cualidades del proceso con exactitud y precisión, se habla de un proceso exacto cuando CP y CPK son iguales. Se habla de un proceso preciso cuando el CP es mayor a 2.
+    p.mb-4 Al realizar los análisis se debe llegar a las causas que ocasionan que un proceso no cumpla con las especificaciones, a continuación, se presentan los tipos de causas:
     
+    .row.justify-content-center.mb-5(data-aos='fade-down')
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Tabla 3.
+          span Causas que ocasionan que un proceso no cumpla con las especificaciones
+        .tabla-a.tabla1.tabl-resp.color-acento-contenido
+          table
+            thead
+              tr.bg-color-secundario
+                th.text-white(colspan="3") Análisis de índice de capacidad potencial
+              tr.bg5
+                th Tipos de causas
+                th Concepto
+                th Causas
+            tbody
+              tr
+                td Causas naturales
+                td Son propias del proceso, son difíciles de controlar, determinan la capacidad cualitativa del proceso y si solo varia por estas causas, el proceso es estable.
+                td 
+                  p Llamadas 6M:
+                  ul.lista-ul--color.fa-lista.mb-0
+                    li.mb-0
+                      i.far.fa-check-circle
+                      span.mb-0 Medición.
+                    li.mb-0
+                      i.far.fa-check-circle
+                      span.mb-0 Maquinaria y equipo.
+                    li.mb-0
+                      i.far.fa-check-circle
+                      span.mb-0 Materia prima.
+                    li.mb-0
+                      i.far.fa-check-circle
+                      span.mb-0 Métodos y procedimientos.
+                    li.mb-0
+                      i.far.fa-check-circle
+                      span.mb-0 Medio ambiente.
+                    li.mb-0
+                      i.far.fa-check-circle
+                      span.mb-0 Mano de obra.
+              tr
+                td Causas especiales
+                td Derivadas de situaciones especiales, no son permanentes en el proceso.
+                td 
+                  p Algunas causas son:
+                  ul.lista-ul--color.fa-lista.mb-0
+                    li.mb-0
+                      i.far.fa-check-circle
+                      span.mb-0  Daños o desajustes de máquinas.
+                    li.mb-0
+                      i.far.fa-check-circle
+                      span.mb-0 Errores de coequiperos.
+                    li.mb-0
+                      i.far.fa-check-circle
+                      span.mb-0 Textiles, materiales e insumos de mala calidad.
+                    li.mb-0
+                      i.far.fa-check-circle
+                      span.mb-0 Interpretación incorrecta de las instrucciones o de la ficha técnica.
+                    li.mb-0
+                      i.far.fa-check-circle
+                      span.mb-0 Instrumentos de medición mal utilizados.
 
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-5.d-none.d-lg-block(data-aos="fade-right")
+        img(src='@/assets/curso/temas/t1/23.png', alt='')
+      .col-lg-7(data-aos="fade-left")
+        p Los gráficos de control, también llamadas cartas de monitoreo contribuyen a la disminución de costos de no calidad porque:
+        .row.justify-content-center
+          .col-lg-7.mb-3
+            ul.lista-ul.fa-lista.list-ico.mb-0
+              li.mb-1
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Disminuyen las unidades defectuosas.
+              li.mb-1
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Disminución de inspecciones.
+              li.mb-0
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Baja desperdicios.
+          .col-lg-5.mb-3
+            ul.lista-ul.fa-lista.list-ico.mb-0
+              li.mb-1
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Disminuyen defectos.
+              li.mb-1
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Mejoran la eficiencia.
+              li.mb-0
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Disminuyen rechazos.
+
+    p.mb-4 De acuerdo con Barbosa (2016) “las cartas de monitoreo se clasifican por variable y por atributo. Las cartas de control por variable son utilizadas cuando la característica de calidad que se quiere medir es de tipo continuo, mientras que las cartas de control por atributo se utilizan cuando la característica de calidad que se quiere medir es de tipo discreto y solo puede tomar dos valores: conforme o no conforme”. (p.30). Las cartas de monitoreo para atributos se aplican cuando la característica de calidad del proceso no es medible y el producto es considerado como conforme o no conforme, dependiendo del número de no conformidades que tiene” (p.33).
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-7(data-aos="fade-right")
+        p Teniendo en cuenta los atributos se pueden desarrollar cartas y gráficos de control para:
+        h5 Fracción de unidades no conformes (Carta p).
+        p La carta p se utiliza cuando la característica de calidad se presenta por la fracción no conforme de la muestra.
+        p Teniendo en cuenta que la fracción no conforme es igual al numero de artículos no conformes de la muestra respecto al número total de artículos de la muestra, y se representa:
+        .bg1.p-3.d-flex.justify-content-center
+          .formula
+            span.label.fw-bold p =
+            .fraction
+              .top.fw-bold.px-3 X
+              .bottom.fw-bold.px-3 n        
+      .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
+        img(src='@/assets/curso/temas/t1/24.png', alt='')
+
+    p Si el artículo no se ajusta al estándar en una o más de las características del estándar, se clasifica como no conforme. Los principios estadísticos fundamentales a la carta p están basados en la distribución binomial. Suponga una probabilidad de no conformidad p y que las unidades sucesivas son independientes.
+    p Si se selecciona una muestra aleatoria de n unidades del proceso, y X es el número de unidades del producto que son no conformes, entonces X tiene una distribución binomial con parámetros n y p.
+
+    .row.justify-content-center.mb-4.d-none.d-md-block(data-aos="fade")
+      .col-lg-8
+        .bg1.p-3.d-flex.justify-content-center.align-items-center
+          p Se sabe que la media y la varianza de p#[sup -]  son p' y
+          .formula.mx-3
+            .fraction
+              .top.fw-bold.px-3 p´(1-p´)
+              .bottom.fw-bold.px-3 n      
+          p respectivamente.
+    .row.justify-content-center.mb-4.d-block.d-md-none(data-aos="fade")
+      .col-lg-8
+        .bg1.p-3.text-center
+          p Se sabe que la media y la varianza de p#[sup -]  son p' y
+          .formula.mx-auto
+            .fraction
+              .top.fw-bold.px-3 p´(1-p´)
+              .bottom.fw-bold.px-3 n      
+          p respectivamente.
+
+
+    p.mb-4 En la siguiente imagen se observan las expresiones necesarias para el cálculo de los límites de control de la carta p" Barbosa (2016. P. 34)
+
+    .row.justify-content-center.mb-5(data-aos="fade-down")
+      .col-lg-10
+        img(src='@/assets/curso/temas/t1/formula.svg', alt='')
+
+    .row.justify-content-center.mb-5
+      .col-lg-7(data-aos="fade-right")
+        p Luego de realizar los cálculos se realiza la grafica y se procede a realizar el análisis, monitoreos y seguimientos y se evalúan los resultados.
+        .bg1.p-3
+          p Para profundizar en el cálculo y método de graficar la carta de control p estudie en el material complementario : Caso 1 - Fracción de unidades no conformes.
+          p.mb-0 Fuente: Barbosa (2016. P. 34)
+      .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
+        img(src='@/assets/curso/temas/t1/25.png', alt='')
+
+    .subt2.mb-4(data-aos="fade-right")
+      h4.mb-0 Número de unidades no conformes (carta np)
+
+    p.mb-4 “La carta np está diseñada para monitorear el número de unidades no conformes en lugar de la proporción de no conformidad. Los límites calculados son calculados mediante las siguientes fórmulas” Barbosa (2016. P.34)
+
+    .row.justify-content-center.mb-4(data-aos="fade-down")
+      .col-lg-10
+        img.mb-2(src='@/assets/curso/temas/t1/formula2.svg', alt='')
+        figcaption Fuente: Barbosa (2016. P. 34)
+
+    p.mb-4 Luego de realizar los cálculos se realiza la gráfica y se procede a realizar el análisis, monitoreos y seguimientos y se evalúan los resultados.
+
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .bg-color-primario.text-white.p-4.py-xl-5
+          p.mb-0 Para profundizar en el cálculo y método de graficar la carta de control p estudie en el material complementario : Caso 2 — Número de unidades no conformes (carta np).
+
+    .subt2.mb-4(data-aos="fade-right")
+      h4.mb-0 Número de no conformidades por unidad (Carta c)
+
+    .row.justify-content-center.mb-4(data-aos="fade")
+      .col-lg-1.d-none.d-lg-block
+        .deco2
+      .col-lg-11
+        p.mb-0 Continuando con lo expresado por Barbosa (2016) “en la carta c se analiza el número total de no conformidades en una unidad. Se utiliza para determinar la ocurrencia de no conformidades en la inspección de una unidad de producto, es decir, determinar cuántas no conformidades tienen un producto. Esta carta se usa en los casos donde el tamaño del subgrupo es una unidad inspeccionada formada por un elemento o grupo de elementos que conforman la unidad estadística. Esta carta de monitoreo se construye según las siguientes expresiones” (p. 35).
+
+    .row.justify-content-center.mb-4(data-aos="fade-down")
+      .col-lg-8.mb-3.mb-lg-0
+        img(src='@/assets/curso/temas/t1/formula3.svg', alt='')
+      .col-lg-4
+        .bg1.p-3.h-100
+          p La línea central se calcula según fórmula.
+          img.w-95x.m-auto(src='@/assets/curso/temas/t1/formula4.svg', alt='')
+
+    p Donde c#[sup ̅ ]  es el número promedio de no conformidades por unidad en una muestra de tamaño n dada. Barbosa (2016. p.36).
+    p Dentro del plan de calidad deben estar especificadas las técnicas de monitoreo, el seguimiento a realizar y las evaluaciones a través de todo el proceso de producción de la prenda, todo con el fin de asegurar la calidad, dentro de procedimientos para estandarizar el manejo de éstas tres actividades relacionadas a la calidad.
+    p Los monitoreos y el seguimiento deben estar registrados para establecer las comparaciones y reconocer el avance de calidad de los procesos contenidos en informes de calidad.
+
+    .row.justify-content-center
+      .col-lg-8
+        .bg-color-primario.text-white.p-4.py-xl-5
+          p.mb-0 Para profundizar en el cálculo y método de graficar la carta de control p estudie en el material complementario : Caso 3 — Número de unidades no conformes (carta c).
 
 
 </template>
