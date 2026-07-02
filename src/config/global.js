@@ -134,13 +134,11 @@ export default {
     },
     {
       referencia:
-        'Oficina de Evaluación del PNUD. (2009). Manual de seguimiento y evaluación de resultados. B - PNUD.',
-      link: '',
+        'Oficina de Evaluación del PNUD. (2009). Manual de seguimiento y evaluación de resultados. Programa de las Naciones Unidas para el Desarrollo (PNUD).',
     },
     {
       referencia:
-        'Pérez Marqués, M. (2016). Control de Calidad Técnicas y herramientas (1ª ed.). Editor Alfaomega Grupo.',
-      link: '',
+        'Pérez Marqués, M. (2016). Control de calidad: técnicas y herramientas (1.ª ed.). Alfaomega Grupo Editor.',
     },
     {
       referencia:
@@ -227,12 +225,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

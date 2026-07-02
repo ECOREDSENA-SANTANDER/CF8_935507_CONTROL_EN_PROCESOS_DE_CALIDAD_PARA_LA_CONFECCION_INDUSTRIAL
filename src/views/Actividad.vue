@@ -161,7 +161,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Dropbox, Gsuite, One Drive e iCloud.',
+              texto: 'Dropbox, Gsuite, OneDrive e iCloud.',
               esCorrecta: true,
             },
           ],

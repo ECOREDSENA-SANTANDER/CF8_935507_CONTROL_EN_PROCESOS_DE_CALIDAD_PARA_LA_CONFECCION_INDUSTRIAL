@@ -53,15 +53,15 @@
           li    
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 1
-            span.mb-0 Unidades de procesamiento de gráficos (GPU).
+            span.mb-0 Unidades de procesamiento de gráficos (#[em GPU]).
           li    
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 2
-            span.mb-0 Memorias no volátiles (NVRAM) información guardada también en ausencia de energía.
+            span.mb-0 Memorias no volátiles (#[em NVRAM]) información guardada también en ausencia de energía.
           li    
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 3
-            span.mb-0 SQL (#[em Structured Query Language]).
+            span.mb-0 #[em SQL (Structured Query Language)].
           li    
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 4
@@ -79,19 +79,19 @@
           li    
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 3
-            span.mb-0 Inteligencia artificial (IA).
+            span.mb-0 Inteligencia Artificial (IA).
           li    
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 4
             span.mb-0 Cadenas de bloques (#[em Blockchain]).
     
-    p.mb-4 En la recolección de información se pueden utilizar algunas aplicaciones como: Evernote, Ubernote, Searcheeze, Catch Notes, Justnotes, Nevernote, mediante las cuales se puede sincronizar la información en los diferentes dispositivos, sea un computador, una tablet o de un celular al correo electrónico, por ejemplo.
+    p.mb-4 En la recolección de información se pueden utilizar algunas aplicaciones como: Evernote, Ubernote, Searcheeze, Catch Notes, Justnotes, Nevernote, mediante las cuales se puede sincronizar la información en los diferentes dispositivos, sea un computador, una #[em tablet] o de un celular al correo electrónico, por ejemplo.
 
     .row.justify-content-center.mb-4
       .col-lg-5.col-md-8.col-9.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/6.png', alt='')
       .col-lg-7(data-aos="fade-left")
-        p Debido al manejo de gran cantidad de datos, y por el riesgo a la pérdida de información por algún daño en los ordenadores de las empresas o memorias externas, actualmente se manejan tecnologías de la información y comunicación sencillas para el almacenamiento de la información en la nube como: Dropbox, Gsuite, One Drive, ICloud.
+        p Debido al manejo de gran cantidad de datos, y por el riesgo a la pérdida de información por algún daño en los ordenadores de las empresas o memorias externas, actualmente se manejan tecnologías de la información y comunicación sencillas para el almacenamiento de la información en la nube como: Dropbox, Gsuite, OneDrive, iCloud.
         p Las tecnologías de la información más avanzadas que se han ido introduciendo son aplicaciones de programación y robótica y realidad virtual. Las aplicaciones como escáneres para ubicación y cuantificación de defectos, y simuladores ayudan al procedimiento de inspección de calidad.
 
     p.mb-4 Existen programas especializados para el análisis y control de calidad entre los cuales se destacan:
@@ -101,11 +101,17 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-primario")
           .row(titulo="Statgraphics centurion")
             .col-md-11
-              p Es una herramienta de análisis de datos que combina procedimientos analíticos con gráficos interactivos proporcionando un entorno integrado de análisis que puede ser aplicado en cada una de las fases de un proyecto, desde los protocolos de gestión seis sigma hasta los procesos de control de calidad.
-              p En la figura se observa un reporte de los gráficos que genera este programa para el análisis de la información.
-              figure.w-75.text-center.mx-auto
-                img(src='@/assets/curso/temas/t1/acord1-1.png', alt='')
-          .row(titulo="SPSS <em>Statistics</em>")
+              p Es una herramienta de análisis de datos que combina procedimientos analíticos con gráficos interactivos proporcionando un entorno integrado de análisis que puede ser aplicado en cada una de las fases de un proyecto, desde los protocolos de gestión Seis Sigma hasta los procesos de control de calidad.
+              p.mb-4 En la Figura 1 se presentan ejemplos de reportes gráficos generados por un programa de análisis estadístico para apoyar el análisis de la información de calidad.
+              .row.justify-content-center
+                .col-lg-9.col-11
+                  .titulo-sexto.color-acento-contenido.mb-3
+                    h5 Figura 1.
+                    span Reportes gráficos generados en un programa de análisis estadístico
+                  figure.mb-1
+                    img(src='@/assets/curso/temas/t1/fig1.png', alt='Captura de una interfaz de un programa de análisis estadístico que presenta diferentes tipos de gráficos utilizados para el análisis de información de calidad, como histogramas, gráficos de dispersión, gráficos de control y representaciones comparativas de datos.')
+                  figcaption Fuente: Statgraphics (2020).
+          .row(titulo="SPSS Statistics")
             .col-md-11
               p Es un #[em software] flexible para el control de la calidad mediante la utilización de herramientas estadísticas, tanto en estadística básica, como avanzada; para el análisis de la capacidad de procesos y generación de gráficos como Pareto, histogramas, entre otros; puede introducir hojas de cálculo de Excel o ASCII y puede editar datos ya que se integra fácilmente con extensiones para código abierto.
           .row(titulo="SAS - <em>Software</em> y Soluciones de Analítica")
@@ -157,7 +163,7 @@
                     .row.justify-content-center.mb-3
                       .col-5.col-lg-7.col-md-6
                         img(src='@/assets/curso/temas/t1/tarj1-5.png' alt='')
-                    h4.bg-color-primario.w-fit.m-auto.text-white.text-center.py-1.px-4 Uso de herramientas estadísticas.
+                    h4.bg-color-primario.w-fit.m-auto.text-white.text-center.py-1.px-4 Uso de herramientas estadísticas
 
     p.mb-4 Los componentes de un sistema de información son:
 
@@ -225,9 +231,13 @@
         .row.justify-content-center.align-items-center
 
           .row.justify-content-center.mb-5
+            .col-lg-12
+              .titulo-sexto.color-acento-contenido.mb-3
+                h5 Figura 2. 
+                span Ciclo de Sistema de Información
             .col-lg-10
               figure
-                img(src='@/assets/curso/temas/t1/infog.svg', alt='')
+                img(src='@/assets/curso/temas/t1/fig2.svg', alt='Diagrama circular del ciclo del sistema de información. En el centro aparece el texto “Ciclo de Sistema de Información” y alrededor se presentan las etapas: planificación, análisis de requerimientos, diseño, desarrollo, prueba, implementación y ejecución, y operación y mantenimiento.')
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-1.col-md-2.col-4.mb-3.mb-md-0.d-none.d-md-block(data-aos="fade-right")
@@ -285,7 +295,7 @@
               img(src="@/assets/curso/temas/t1/tarj3-2.png", alt="")
             .col
               h5 Errores de origen humano, son acciones que realiza el personal que produce defectos en la producción, los cuales se pueden organizar como se había mencionado en un listado por categorías, organizados en niveles, conforme a las consecuencias que producen.
-              p Por ejemplo: en el proceso de producción de una camisa, en un lote específico se dobladilla el ruedo a una diferente medida a la solicitada, se analiza el error y las posibles causas que las cuales podrían estar en la instrucción que se dio al coequipero, en la graduación de la guía dobladilladora realizada por el técnico de mantenimiento, en la mala interpretación de la ficha de producción u otras, además de una combinación de varias de las causas. Teniendo en cuenta lo anterior, no se buscan culpables en quien produjo el defecto o falla, sino el responsable para establecer planes de capacitación y mejoramiento o cambios en herramientas, pies, aditamentos y maquinaria que eliminen le recurrencia del defecto.
+              p Por ejemplo: en el proceso de producción de una camisa, en un lote específico se dobladilla el ruedo a una diferente medida a la solicitada, se analiza el error y las posibles causas que podrían estar en la instrucción que se dio al coequipero, en la graduación de la guía dobladilladora realizada por el técnico de mantenimiento, en la mala interpretación de la ficha de producción u otras, además de una combinación de varias de las causas. Teniendo en cuenta lo anterior, no se buscan culpables en quien produjo el defecto o falla, sino el responsable para establecer planes de capacitación y mejoramiento o cambios en herramientas, pies, aditamentos y maquinaria que eliminen la recurrencia del defecto.
     
     p.mb-4 El seguimiento de estos reportes hace parte del sistema de información de calidad de la empresa, los cuales deben ser monitoreados y valorados por el equipo de calidad con el fin de incluir en los planes de calidad las acciones de mejora.
 
@@ -323,10 +333,10 @@
             .row.justify-content-center    
               .col-lg-8
                 .titulo-sexto.color-acento-contenido.mb-3
-                  h5 Figura 1.
+                  h5 Figura 3.
                   span Formato de reporte de errores o fallas
                 figure
-                  img(src='@/assets/curso/temas/t1/fig1.svg', alt='')
+                  img(src='@/assets/curso/temas/t1/fig3.svg', alt='Formato de reporte de errores o fallas utilizado para registrar información de calidad. Incluye campos para información general, fecha de reporte, fecha del error o falla, área o proceso donde se presentó el error, responsable del reporte, detalles de los hechos, causa de la falla o error, análisis de causas y consecuencias, reseña de revisiones realizadas y acciones correctivas.')
 
     .subt.mb-4(data-aos="fade-right")
       img(src='@/assets/curso/temas/t1/subt.svg', alt='')
@@ -340,7 +350,7 @@
         .bg1.p-4
           p.mb-0 Durante un día en una planta de confección puede surgir una gran cantidad de información de los diferentes tipos de inspecciones como son las inspecciones de insumos, productos en proceso, productos terminados con la rapidez y certeza necesaria.
     
-    p.mb-4 Teniendo en cuenta lo anterior los pasos para recopilar los datos de las inspecciones son los siguientes:
+    p.mb-4 Teniendo en cuenta lo anterior, los pasos para recopilar los datos de las inspecciones son los siguientes:
 
     .row.justify-content-center.tarj-indic.mb-4(data-aos="fade")
       .col-lg-3.col-md-6.mb-3
@@ -424,25 +434,25 @@
           img(src='@/assets/curso/temas/t1/tarj5-1.png' alt='')
           .tarjeta.bg3.w-100
             .p-4
-              h4.text-center.mb-0 Confiabilidad.
+              h4.text-center.mb-0 Confiabilidad
       .col-lg-3.col-md-6.mb-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t1/tarj5-2.png' alt='')
           .tarjeta.bg3.w-100
             .p-4
-              h4.text-center.mb-0 Precisión, sin ambigüedades.
+              h4.text-center.mb-0 Precisión, sin ambigüedades
       .col-lg-3.col-md-6.mb-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t1/tarj5-3.png' alt='')
           .tarjeta.bg3.w-100
             .p-4
-              h4.text-center.mb-0 Oportunidad.
+              h4.text-center.mb-0 Oportunidad
       .col-lg-3.col-md-6.mb-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t1/tarj5-4.png' alt='')
           .tarjeta.bg3.w-100
             .p-4
-              h4.text-center.mb-0 Relevancia.
+              h4.text-center.mb-0 Relevancia
     
     p.mb-5 Existe información que se comparte de manera automática debido al uso de herramientas tecnológicas, por tanto, se debe limitar el uso compartido de archivos y documentos, los cuales pueden estar tanto en forma física como digital, para evitar problemas que desencadenen daños mayores en la calidad, afectando el logro de metas y objetivos de la empresa en pro de su competitividad.
 
@@ -475,13 +485,13 @@
       img(src='@/assets/curso/temas/t1/subt.svg', alt='')
       h3.mb-0 Seguimiento y monitoreo de información
         
-    p Una vez se realizan las inspecciones y se determinan las acciones a realizar, se procede a su seguimiento documentando el avance de estas conforme al plan de calidad, con el fin de realizar los ajustes pertinentes en el momento requerido. Los resultados de los indicadores muestran el comportamiento de alguno de los aspectos relacionados con la calidad, por lo tanto, apoya el seguimiento de la información.
+    p Una vez se realizan las inspecciones y se determinan las acciones a realizar, se procede a su seguimiento documentando el avance de estas conforme al plan de calidad, con el fin de realizar los ajustes pertinentes en el momento requerido. Los resultados de los indicadores presentan el comportamiento de alguno de los aspectos relacionados con la calidad, por lo tanto, apoya el seguimiento de la información.
 
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right")
         p El monitoreo es un proceso continuo y sistemático que va midiendo el progreso de los resultados propuestos. Se debe establecer un periodo de tiempo y realizar la comparación de los resultados con los indicadores planeados; es estático y garantiza el resultado de las acciones correctivas y demás actividades relacionadas, dentro de las cuales se van observando y recolectando cada vez más información. El monitoreo es una herramienta práctica en la recolección de datos.
         .bg1.p-4.px-lg-5.d-flex.flex-column.justify-content-center
-          p.mb-0 Por su parte el seguimiento se refiere a un conjunto de actividades con el propósito de comprobar que se cumplan las metas trazadas, y va relacionando otros procesos para obtener los logros propuestos. El seguimiento va sistematizando los resultados del monitoreo, los recursos utilizados, cumplimiento de metas, por lo tanto, evalúa el logro de los objetivo
+          p.mb-0 Por su parte el seguimiento se refiere a un conjunto de actividades con el propósito de comprobar que se cumplan las metas trazadas, y va relacionando otros procesos para obtener los logros propuestos. El seguimiento va sistematizando los resultados del monitoreo, los recursos utilizados, cumplimiento de metas, por lo tanto, evalúa el logro de los objetivos.
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/20.png', alt='')
 
@@ -547,7 +557,7 @@
         span Clasificación índices de capacidad
       .tabla-a.tabla1.tabl-resp.color-acento-contenido
         table
-          caption Fuente: Salazar. (2019).
+          caption Fuente: Salazar (2019).
           thead
             tr.bg-color-secundario
               th.text-white(colspan="5") Clasificación índices de capacidad
@@ -571,7 +581,7 @@
               td Ppu
               td PpL
 
-    p Al realizar el análisis se debe observar que no existan diferencias grandes entre los índices, 10 que evidencia inconsistencia en la capacidad del proceso.
+    p Al realizar el análisis se debe observar que no existan diferencias grandes entre los índices, lo que evidencia inconsistencia en la capacidad del proceso.
     p La fórmula de capacidad potencial del proceso es:
 
     .row.justify-content-center.mb-4
@@ -603,20 +613,20 @@
                 .bottom #[b d#[sub 2]]
         p donde R̅ es el rango y #[b d#[sub 2]], es una constante que depende del tamaño de la muestra que se ha utilizado según las tablas.
 
-    p Para entender los índices se debe observar la curva que representa la probabilidad del comportamiento del proceso, en donde se comparan la variación del proceso y la tolerancia dada por los límites, el siguiente gráfico muestra la comparación de los conceptos de dispersión y tolerancias.
+    p Para entender los índices se debe observar la curva que representa la probabilidad del comportamiento del proceso, en donde se comparan la variación del proceso y la tolerancia dada por los límites, el siguiente gráfico presenta la comparación de los conceptos de dispersión y tolerancias.
 
     .row.justify-content-center.mb-5    
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 2.
+          h5 Figura 4.
           span Comparación de los conceptos de dispersión y tolerancias
         .tarjeta.bg8.p-4.px-xl-5.mb-2
           figure
-            img.px-xl-4(src='@/assets/curso/temas/t1/fig2.svg', alt='')
-        figcaption Fuente: Salazar. (2019).
+            img.px-xl-4(src='@/assets/curso/temas/t1/fig4.svg', alt='Gráfico de una curva de distribución normal utilizada para comparar dispersión y tolerancias en un proceso de calidad. Presenta los límites de especificación inferior y superior, identificados como LEI y LES, y la dispersión natural del proceso representada como 6σ, desde -3σ hasta +3σ.')
+        figcaption Fuente: Salazar (2019).
 
     p Al calcular los resultados se analiza que, si Cp es mayor a 1, quiere decir que el proceso potencialmente cumple con las especificaciones; pero si el Cp es menor a 1, quiere decir que el proceso potencialmente no cumple con las especificaciones, es decir que el producto es no conforme. Teniendo en cuenta lo anterior al realizar los monitoreos, el seguimiento y posteriormente la evaluación con los parámetros se determinan las acciones a realizar.
-    p.mb-4 El siguiente cuadro muestra los análisis para tener en cuenta según la herramienta Seis sigma, una vez se tenga los resultados de la Cp:
+    p.mb-4 El siguiente cuadro presenta los análisis para tener en cuenta según la herramienta Seis Sigma, una vez se tenga los resultados de la Cp:
 
     .mb-4(data-aos="fade-down")
       .titulo-sexto.color-secundario.mb-3
@@ -635,7 +645,7 @@
             tr.bg-color-acento-contenido
               td.text-center Mayor o igual al 2
               td.text-center Clase mundial
-              td Tiene calidad Seis sigma
+              td Tiene calidad Seis Sigma
             tr.bg1
               td.text-center Entre 1,33 y 2
               td.text-center 1
@@ -699,7 +709,7 @@
                         img(src='@/assets/curso/temas/t1/tarj7-7.png' alt='')
                     p.text-center.mb-0 Cambiar la especificación y así cambiar también los límites de aceptación de la prenda.
 
-    p.mb-4 Para analizar el proceso, incluyendo la media del proceso se calcula el CPK es decir el índice de capacidad real, el cual es el valor menor entre CPU y CPL, a continuación, se muestra las dos fórmulas:
+    p.mb-4 Para analizar el proceso, incluyendo la media del proceso se calcula el CPK es decir el índice de capacidad real, el cual es el valor menor entre CPU y CPL, a continuación, se presenta las dos fórmulas:
 
     .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-6.mb-4.mb-lg-0
@@ -718,11 +728,14 @@
                   .fraction
                     .top.px-3 #[b μ] - LEI
                     .bottom.px-3 #[b 3σ]
-              p.mb-0 Donde #[b μ] = Media de la especificación    
+              p.mb-0 Donde #[b μ] = media de la especificación.
             .col-lg-6             
               p.mb-0 Se concluye que un proceso está centrado cuando los índices de capacidad potencial y el índice de capacidad real son iguales. A continuación, se puede observar en el cuadro los resultados y el análisis según el resultado de CPK.
       .col-lg-6
-        .tarjeta.color-acento-contenido--borde.p-3.h-100
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Tabla 3.
+          span Análisis del índice de capacidad real del proceso — CPK
+        .tarjeta.color-acento-contenido--borde.p-3
           h4.text-center ANÁLISIS DE ÍNDlCE DE CAPACIDAD POTENCIAL
           table
             thead
@@ -746,7 +759,7 @@
     .row.justify-content-center.mb-5(data-aos='fade-down')
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Tabla 3.
+          h5 Tabla 4.
           span Causas que ocasionan que un proceso no cumpla con las especificaciones
         .tabla-a.tabla1.tabl-resp.color-acento-contenido
           table
@@ -838,7 +851,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7(data-aos="fade-right")
         p Teniendo en cuenta los atributos se pueden desarrollar cartas y gráficos de control para:
-        h5 Fracción de unidades no conformes (Carta p).
+        h5 Fracción de unidades no conformes (Carta p)
         p La carta p se utiliza cuando la característica de calidad se presenta por la fracción no conforme de la muestra.
         p Teniendo en cuenta que la fracción no conforme es igual al numero de artículos no conformes de la muestra respecto al número total de artículos de la muestra, y se representa:
         .bg1.p-3.d-flex.justify-content-center
@@ -873,7 +886,7 @@
           p respectivamente.
 
 
-    p.mb-4 En la siguiente imagen se observan las expresiones necesarias para el cálculo de los límites de control de la carta p" Barbosa (2016. P. 34)
+    p.mb-4 En la siguiente imagen se observan las expresiones necesarias para el cálculo de los límites de control de la carta p" Barbosa (2016, p. 34)
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
@@ -910,7 +923,7 @@
 
     .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-1.d-none.d-lg-block
-        .deco2
+        img(src='@/assets/curso/temas/t1/26.svg', alt='')
       .col-lg-11
         p.mb-0 Continuando con lo expresado por Barbosa (2016) “en la carta c se analiza el número total de no conformidades en una unidad. Se utiliza para determinar la ocurrencia de no conformidades en la inspección de una unidad de producto, es decir, determinar cuántas no conformidades tienen un producto. Esta carta se usa en los casos donde el tamaño del subgrupo es una unidad inspeccionada formada por un elemento o grupo de elementos que conforman la unidad estadística. Esta carta de monitoreo se construye según las siguientes expresiones” (p. 35).
 
@@ -926,7 +939,7 @@
     p Dentro del plan de calidad deben estar especificadas las técnicas de monitoreo, el seguimiento a realizar y las evaluaciones a través de todo el proceso de producción de la prenda, todo con el fin de asegurar la calidad, dentro de procedimientos para estandarizar el manejo de éstas tres actividades relacionadas a la calidad.
     p Los monitoreos y el seguimiento deben estar registrados para establecer las comparaciones y reconocer el avance de calidad de los procesos contenidos en informes de calidad.
 
-    .row.justify-content-center
+    //.row.justify-content-center
       .col-lg-8
         .bg-color-primario.text-white.p-4.py-xl-5
           p.mb-0 Para profundizar en el cálculo y método de graficar la carta de control p estudie en el material complementario : Caso 3 — Número de unidades no conformes (carta c).
