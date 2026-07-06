@@ -597,8 +597,8 @@
                     .bottom 6σ
             .col-lg-6.col-md-6              
               p.mb-0 Donde:
-              p.mb-0 LES = Es el límite superior
-              p.mb-0 LEI = Es el límite inferior
+              p.mb-0 LES = es el límite superior
+              p.mb-0 LEI = es el límite inferior
       .col-lg-6
         .row.justify-content-center.align-items-center.mb-4
           .col-auto 
