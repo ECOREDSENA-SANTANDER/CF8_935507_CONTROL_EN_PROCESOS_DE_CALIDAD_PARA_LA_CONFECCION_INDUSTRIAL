@@ -110,7 +110,6 @@
                     span Reportes gráficos generados en un programa de análisis estadístico
                   figure.mb-1
                     img(src='@/assets/curso/temas/t1/fig1.png', alt='Captura de una interfaz de un programa de análisis estadístico que presenta diferentes tipos de gráficos utilizados para el análisis de información de calidad, como histogramas, gráficos de dispersión, gráficos de control y representaciones comparativas de datos.')
-                  figcaption Fuente: Statgraphics (2020).
           .row(titulo="SPSS Statistics")
             .col-md-11
               p Es un #[em software] flexible para el control de la calidad mediante la utilización de herramientas estadísticas, tanto en estadística básica, como avanzada; para el análisis de la capacidad de procesos y generación de gráficos como Pareto, histogramas, entre otros; puede introducir hojas de cálculo de Excel o ASCII y puede editar datos ya que se integra fácilmente con extensiones para código abierto.
