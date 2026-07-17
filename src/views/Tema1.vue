@@ -16,7 +16,7 @@
         p Para recolectar la información de las inspecciones como parte de la gestión de las actividades de organización de la información, se utilizan documentos de registro que se han creado previamente según el área, proceso o insumo a inspeccionar. Es primordial crear un protocolo para el manejo de la información donde se establezcan los parámetros para el cuidado de su seguridad.
         .bg1.p-4.mb-4
           p.mb-0 En la información recolectada de las inspecciones de calidad, se deben definir los datos que se van a recoger; la forma, el momento y el lugar de recolectarlos, la forma de custodiarlos y a quienes están disponibles; posteriormente, se procede a realizar las clasificaciones necesarias.
-        p Es importante, además, asignar la responsabilidad en la gestión de la información para contribuir a la estructura organizacional, para poder brindar los soportes pertinentes
+        p Es importante, además, asignar la responsabilidad en la gestión de la información para contribuir a la estructura organizacional, para poder brindar los soportes pertinentes.
 
     .row.justify-content-center(data-aos="fade")
       .col-lg-5.mb-4
@@ -198,7 +198,7 @@
       
     .row.justify-content-center.mb-5
       .col-lg-7
-        p Las fases para el desarrollo de un sistema de información son continuas por lo cual se pueden observar en la siguiente imagen como un ciclo:
+        p Las fases para el desarrollo de un sistema de información son continuas; por ello, se presentan como un ciclo en la siguiente imagen:
         .row.justify-content-center.align-items-center
           .col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/t1/9.svg', alt='')
@@ -287,7 +287,7 @@
               img(src="@/assets/curso/temas/t1/tarj3-1.svg", alt="")
             .col
               h5 Fallas o defectos, son el efecto visual que produce una imperfección que se puede presentar en el proceso.
-              p Por ejemplo, se presenta un caso común en una producción en la cual aparecen manchas de aceite sobre la prenda; al investigar sobre el suceso se logra determinar que la falla la ocasiona la máquina al no tener un tapón por donde sale el aceite, lo cual produce el defecto
+              p Por ejemplo, se presenta un caso común en una producción en la cual aparecen manchas de aceite sobre la prenda; al investigar sobre el suceso se logra determinar que la falla la ocasiona la máquina al no tener un tapón por donde sale el aceite, lo cual produce el defecto.
         .crd.crd--avatarHorizontal.crd--last.py-4
           .row.align-items-center
             .col-auto
@@ -323,7 +323,7 @@
             i.far.fa-check-circle
             span.mb-0 #[b Acciones correctivas:] descripción de las acciones realizadas y a realizar para que no vuelva a suceder la falla.
 
-    p A continuación, se puede ver un ejemplo del formato de reporte:
+    p A continuación, se presenta un ejemplo del formato de reporte.
 
     .row.bgimg-1.align-items-center.p-3.p-md-4.mb-5(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-4
@@ -477,7 +477,7 @@
             span.mb-0 La información para consultar debe estar previamente recopilada.
           li.mb-0
             img(src='@/assets/curso/temas/t1/ico-list.svg')
-            span.mb-0 Registrar la consulta de la información para tener seguimiento de su uso
+            span.mb-0 Registrar la consulta de la información para tener seguimiento de su uso.
 
       
     .subt.mb-4(data-aos="fade-right")
@@ -488,7 +488,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        p El monitoreo es un proceso continuo y sistemático que va midiendo el progreso de los resultados propuestos. Se debe establecer un periodo de tiempo y realizar la comparación de los resultados con los indicadores planeados; es estático y garantiza el resultado de las acciones correctivas y demás actividades relacionadas, dentro de las cuales se van observando y recolectando cada vez más información. El monitoreo es una herramienta práctica en la recolección de datos.
+        p El monitoreo es un proceso continuo y sistemático que mide el progreso de los resultados propuestos. Se debe establecer un periodo y comparar los resultados con los indicadores planeados. Este proceso permite verificar el resultado de las acciones correctivas y de las demás actividades relacionadas, durante las cuales se registra y recopila cada vez más información.
         .bg1.p-4.px-lg-5.d-flex.flex-column.justify-content-center
           p.mb-0 Por su parte el seguimiento se refiere a un conjunto de actividades con el propósito de comprobar que se cumplan las metas trazadas, y va relacionando otros procesos para obtener los logros propuestos. El seguimiento va sistematizando los resultados del monitoreo, los recursos utilizados, cumplimiento de metas, por lo tanto, evalúa el logro de los objetivos.
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
@@ -538,7 +538,7 @@
                 span.mb-0.text-white Establecer plazos de entrega de informes de seguimiento.
 
     p La evaluación es el análisis crítico de los resultados de las inspecciones, seguimientos, y demás actividades relacionadas con el fin de comparar el logro de objetivos planteados.
-    p.mb-4 La evaluación está relacionada al monitoreo y seguimiento, se debe tener en cuenta que se realiza de forma periódica, la cual puede ser anual o conforme a los periodos de las colecciones de las prendas. Es el insumo para la planeación de la producción anual y contribuye a la realización de nuevas estrategias
+    p.mb-4 La evaluación está relacionada al monitoreo y seguimiento, se debe tener en cuenta que se realiza de forma periódica, la cual puede ser anual o conforme a los periodos de las colecciones de las prendas. Es el insumo para la planeación de la producción anual y contribuye a la realización de nuevas estrategias.
 
     .row.justify-content-center.mb-4
       .col-lg-5.d-none.d-lg-block(data-aos="fade-right")
@@ -580,7 +580,7 @@
               td Ppu
               td PpL
 
-    p Al realizar el análisis se debe observar que no existan diferencias grandes entre los índices, lo que evidencia inconsistencia en la capacidad del proceso.
+    p Al realizar el análisis, se debe verificar que no existan diferencias significativas entre los índices, ya que estas evidencian inconsistencias en la capacidad del proceso.
     p La fórmula de capacidad potencial del proceso es:
 
     .row.justify-content-center.mb-4
@@ -612,7 +612,7 @@
                 .bottom #[b d#[sub 2]]
         p donde R̅ es el rango y #[b d#[sub 2]], es una constante que depende del tamaño de la muestra que se ha utilizado según las tablas.
 
-    p Para entender los índices se debe observar la curva que representa la probabilidad del comportamiento del proceso, en donde se comparan la variación del proceso y la tolerancia dada por los límites, el siguiente gráfico presenta la comparación de los conceptos de dispersión y tolerancias.
+    p Para comprender los índices, se debe analizar la curva que representa la probabilidad del comportamiento del proceso, en la cual se comparan la variación del proceso y la tolerancia establecida por los límites. El siguiente gráfico presenta la comparación de los conceptos de dispersión y tolerancia.
 
     .row.justify-content-center.mb-5    
       .col-lg-8
@@ -712,7 +712,7 @@
 
     .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-6.mb-4.mb-lg-0
-        .tarjeta.bg3.p-4.h-100.d-flex.flex-column.justify-content-center
+        .tarjeta.bg3.p-3.h-100.d-flex.flex-column.justify-content-center
           .row.justify-content-center.align-items-center
             .col-lg-6
               .bg1.p-2.pt-3.d-flex.justify-content-center
@@ -729,7 +729,7 @@
                     .bottom.px-3 #[b 3σ]
               p.mb-0 Donde #[b μ] = media de la especificación.
             .col-lg-6             
-              p.mb-0 Se concluye que un proceso está centrado cuando los índices de capacidad potencial y el índice de capacidad real son iguales. A continuación, se puede observar en el cuadro los resultados y el análisis según el resultado de CPK.
+              p.mb-0 Se concluye que un proceso está centrado cuando los índices de capacidad potencial y de capacidad real son iguales. A continuación, la Tabla 3 presenta los resultados y el análisis según el valor de Cpk.
       .col-lg-6
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 3.
@@ -884,12 +884,14 @@
               .bottom.fw-bold.px-3 n      
           p respectivamente.
 
-
-    p.mb-4 En la siguiente imagen se observan las expresiones necesarias para el cálculo de los límites de control de la carta p" Barbosa (2016, p. 34)
+    p.mb-4 En la siguiente imagen se presentan las expresiones necesarias para el cálculo de los límites de control de la carta p, según Barbosa (2016, p. 34).
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
-        img(src='@/assets/curso/temas/t1/formula.svg', alt='')
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Figura 5.
+          span Fórmulas para calcular los límites de control de la carta p
+        img(src='@/assets/curso/temas/t1/formula.svg', alt='Tabla con las fórmulas del límite inferior, la línea central y el límite superior de la carta de control p.')
 
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right")
@@ -903,14 +905,17 @@
     .subt2.mb-4(data-aos="fade-right")
       h4.mb-0 Número de unidades no conformes (carta np)
 
-    p.mb-4 “La carta np está diseñada para monitorear el número de unidades no conformes en lugar de la proporción de no conformidad. Los límites calculados son calculados mediante las siguientes fórmulas” Barbosa (2016. P.34)
+    p.mb-4 “La carta np está diseñada para monitorear el número de unidades no conformes en lugar de la proporción de no conformidad. Los límites se calculan mediante las siguientes fórmulas” (Barbosa, 2016, p. 34).
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-lg-10
-        img.mb-2(src='@/assets/curso/temas/t1/formula2.svg', alt='')
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Figura 6.
+          span Fórmulas para calcular los límites de control de la carta np
+        img.mb-2(src='@/assets/curso/temas/t1/formula2.svg', alt='Tabla con las fórmulas del límite inferior, la línea central y el límite superior de la carta de control np.')
         figcaption Fuente: Barbosa (2016. P. 34)
 
-    p.mb-4 Luego de realizar los cálculos se realiza la gráfica y se procede a realizar el análisis, monitoreos y seguimientos y se evalúan los resultados.
+    p.mb-4 Luego de realizar los cálculos, se elabora la gráfica. Posteriormente, se realiza el análisis, se efectúan los monitoreos y seguimientos, y se evalúan los resultados.
 
     .row.justify-content-center.mb-5
       .col-lg-8
