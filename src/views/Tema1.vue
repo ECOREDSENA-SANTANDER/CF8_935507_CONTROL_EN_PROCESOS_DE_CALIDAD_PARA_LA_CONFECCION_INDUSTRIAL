@@ -896,9 +896,19 @@
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right")
         p Luego de realizar los cálculos se realiza la grafica y se procede a realizar el análisis, monitoreos y seguimientos y se evalúan los resultados.
-        .bg1.p-3
-          p Para profundizar en el cálculo y método de graficar la carta de control p estudie en el material complementario : Caso 1 - Fracción de unidades no conformes.
-          p.mb-0 Fuente: Barbosa (2016. P. 34)
+        .tarjeta.bg10.p-3.mb-4       
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img(src="@/assets/curso/temas/t1/cta.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-3.mb-sm-0.text-white
+                  h4.mb-1 Caso 1 - Fracción de unidades no conformes
+                  p.mb-0 Descargue para profundizar en el cálculo y método de graficar la carta de control p (Barbosa, 2016, p. 34).
+                .col-sm-auto.mb-3.mb-sm-0
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/Caso1.zip')" target="_blank")
+                    span Descargar 
+                    i.fas.fa-file-download
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/25.png', alt='')
 
@@ -919,9 +929,20 @@
 
     .row.justify-content-center.mb-5
       .col-lg-8
-        .bg-color-primario.text-white.p-4.py-xl-5
-          p.mb-0 Para profundizar en el cálculo y método de graficar la carta de control p estudie en el material complementario : Caso 2 — Número de unidades no conformes (carta np).
-
+        .tarjeta.bg10.p-3.mb-4       
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img(src="@/assets/curso/temas/t1/cta.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-3.mb-sm-0.text-white
+                  h4.mb-1 Caso 2 — Número de unidades no conformes (carta np)
+                  p.mb-0 Descargue para profundizar en el cálculo y método de graficar la carta de control p.
+                .col-sm-auto.mb-3.mb-sm-0
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/Caso2.zip')" target="_blank")
+                    span Descargar 
+                    i.fas.fa-file-download 
+            
     .subt2.mb-4(data-aos="fade-right")
       h4.mb-0 Número de no conformidades por unidad (Carta c)
 
@@ -942,11 +963,23 @@
     p Donde c#[sup ̅ ]  es el número promedio de no conformidades por unidad en una muestra de tamaño n dada. Barbosa (2016. p.36).
     p Dentro del plan de calidad deben estar especificadas las técnicas de monitoreo, el seguimiento a realizar y las evaluaciones a través de todo el proceso de producción de la prenda, todo con el fin de asegurar la calidad, dentro de procedimientos para estandarizar el manejo de éstas tres actividades relacionadas a la calidad.
     p Los monitoreos y el seguimiento deben estar registrados para establecer las comparaciones y reconocer el avance de calidad de los procesos contenidos en informes de calidad.
-
-    //.row.justify-content-center
+    
+    .row.justify-content-center
       .col-lg-8
-        .bg-color-primario.text-white.p-4.py-xl-5
-          p.mb-0 Para profundizar en el cálculo y método de graficar la carta de control p estudie en el material complementario : Caso 3 — Número de unidades no conformes (carta c).
+        .tarjeta.bg10.p-3.mb-4       
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img(src="@/assets/curso/temas/t1/cta.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-3.mb-sm-0.text-white
+                  h4.mb-1 Caso 3 — Número de unidades no conformes (carta c)
+                  p.mb-0 Descargue para profundizar en el cálculo y método de graficar la carta de control p.
+                .col-sm-auto.mb-3.mb-sm-0
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/Caso3.zip')" target="_blank")
+                    span Descargar 
+                    i.fas.fa-file-download
+
 
 
 </template>
