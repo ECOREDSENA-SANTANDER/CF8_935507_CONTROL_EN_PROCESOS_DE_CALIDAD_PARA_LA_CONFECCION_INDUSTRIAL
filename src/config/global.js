@@ -100,7 +100,7 @@ export default {
     {
       termino: 'Atributo',
       significado:
-        'cualquier característica de calidad que pueda ser clasificada de forma cumple o no cumple, funciona o no funciona, pasa o no pasa, a efectos de control del proceso será considerado como un atributo. Barbosa (2016, p. 33).',
+        'cualquier característica de calidad que pueda ser clasificada de forma cumple o no cumple, funciona o no funciona, pasa o no pasa, a efectos de control del proceso será considerado como un atributo (Barbosa, 2016, p. 33).',
     },
     {
       termino: '<em>Blockchain</em>',
@@ -142,12 +142,11 @@ export default {
     },
     {
       referencia:
-        'SAS. SAS: Analítica, inteligencia artificial y gestión de datos. (2020). ',
-      link: '',
+        'SAS Institute Inc. (s. f.). SAS: Analítica, inteligencia artificial y gestión de datos.',
     },
     {
-      referencia: 'STATGRAPHICS.NET. STATGRAPHICS Centurion 18. (2020).',
-      link: '',
+      referencia:
+        'Statgraphics Technologies, Inc. (2017). Statgraphics Centurion (versión 18) [Software]. ',
     },
   ],
   creditos: [
@@ -157,7 +156,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -191,7 +190,7 @@ export default {
           nombre: 'Oscar Andrés Fernández Urrego',
           cargo: ' Evaluador instruccional',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica - Cenigraf - Regional Bogotá',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Bogotá',
         },
         {
           nombre: 'Julieth Paola Vital López',
@@ -230,8 +229,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          nombre: 'Jorge Eduardo Rueda Peña ',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

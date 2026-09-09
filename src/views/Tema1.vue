@@ -37,7 +37,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        p En la recolección de la información y su registro en las bases de datos se han utilizado comúnmente las herramientas de office como Excel, o Access, en hojas de cálculo y con el protagonismo ganado por la internet, con la cual mejora la comunicación en las empresas. Se han ajustado a las necesidades en términos de lugar y en tiempo, además se han desarrollado varios programas para el manejo de la información.
+        p En la recolección de la información y su registro en las bases de datos se han utilizado comúnmente las herramientas de Office como Excel, o Access, en hojas de cálculo y con el protagonismo ganado por la internet, con la cual mejora la comunicación en las empresas. Se han ajustado a las necesidades en términos de lugar y en tiempo, además se han desarrollado varios programas para el manejo de la información.
         .bg1.p-4.px-lg-5.d-flex.flex-column.justify-content-center
           p.mb-0 Teniendo en cuenta lo anterior, las bases de datos creadas a partir de la información recolectada en los procesos de inspección se manejaban solo por cuadros o tablas, lo cual resultaba dispendioso en el manejo de una gran cantidad de datos. Por consiguiente, las tecnologías de la información son un soporte dinámico para la comunicación de información en la empresa.
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
@@ -233,7 +233,7 @@
             .col-lg-12
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Figura 2. 
-                span Ciclo de Sistema de Información
+                span Ciclo de sistema de información
             .col-lg-10
               figure
                 img(src='@/assets/curso/temas/t1/fig2.svg', alt='Diagrama circular del ciclo del sistema de información. En el centro aparece el texto “Ciclo de Sistema de Información” y alrededor se presentan las etapas: planificación, análisis de requerimientos, diseño, desarrollo, prueba, implementación y ejecución, y operación y mantenimiento.')
@@ -381,7 +381,7 @@
             .col-lg-7.col-md-8.col-8
               p.text-white.mb-0 Clasificar Ia información.
     
-    p El manejo de la documentación de calidad dentro de un sistema de gestión debe obedecer a dicho procedimiento, con el fin de apoyar al sistema de gestión y aportar las evidencias requeridas para mantener una óptima comunicación y el control del sistema de gestión de calidad. Así mismo, se debe tener en cuenta la gestión documental obedeciendo a las tablas de retención documental con la intención de no ir en contravía de los tiempos estipulados de retención y la clasificación según la numeración especificada.
+    p El manejo de la documentación de calidad dentro de un sistema de gestión debe obedecer a dicho procedimiento, con el fin de apoyar al sistema de gestión y aportar las evidencias requeridas para mantener una óptima comunicación y el control del sistema de gestión de calidad. Asimismo, se debe tener en cuenta la gestión documental obedeciendo a las tablas de retención documental con la intención de no ir en contravía de los tiempos estipulados de retención y la clasificación según la numeración especificada.
 
     .row.justify-content-center.mb-4
       .col-lg-7
@@ -572,13 +572,13 @@
               td Cp: Capacidad potencial
               td Cpk: Índice de capacidad real
               td Cpu
-              td CpL
+              td Cpl
             tr
               td Largo plazo
               td Pp: Capacidad global
               td Ppk
               td Ppu
-              td PpL
+              td Ppl
 
     p Al realizar el análisis, se debe verificar que no existan diferencias significativas entre los índices, ya que estas evidencian inconsistencias en la capacidad del proceso.
     p La fórmula de capacidad potencial del proceso es:
@@ -701,14 +701,14 @@
                     .row.justify-content-center.mb-3
                       .col-5.col-lg-7.col-md-6
                         img(src='@/assets/curso/temas/t1/tarj7-6.png' alt='')
-                    p.text-center Inspeccionar al 100% la prenda.
+                    p.text-center Inspeccionar al 100 % la prenda.
                   .tarjeta.bg3.p-4
                     .row.justify-content-center.mb-3
                       .col-5.col-lg-7.col-md-6
                         img(src='@/assets/curso/temas/t1/tarj7-7.png' alt='')
                     p.text-center.mb-0 Cambiar la especificación y así cambiar también los límites de aceptación de la prenda.
 
-    p.mb-4 Para analizar el proceso, incluyendo la media del proceso se calcula el CPK es decir el índice de capacidad real, el cual es el valor menor entre CPU y CPL, a continuación, se presenta las dos fórmulas:
+    p.mb-4 Para analizar el proceso, incluyendo la media del proceso se calcula el Cpk es decir el índice de capacidad real, el cual es el valor menor entre Cpu y Cpl, a continuación, se presenta las dos fórmulas:
 
     .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-6.mb-4.mb-lg-0
@@ -733,13 +733,13 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 3.
-          span Análisis del índice de capacidad real del proceso — CPK
+          span Análisis del índice de capacidad real del proceso — Cpk
         .tarjeta.color-acento-contenido--borde.p-3
           h4.text-center ANÁLISIS DE ÍNDlCE DE CAPACIDAD POTENCIAL
           table
             thead
               tr.text-center
-                th.w-25.h5 Valor del CPK
+                th.w-25.h5 Valor del Cpk
                 th.h5 Análisis
             tbody
               tr
@@ -752,7 +752,7 @@
                 td Menor e igual a 0
                 td La media del proceso está fuera de las especificaciones, se deben realizar grandes cambios en el proceso.
         
-    p Se puede hablar de dos cualidades del proceso con exactitud y precisión, se habla de un proceso exacto cuando CP y CPK son iguales. Se habla de un proceso preciso cuando el CP es mayor a 2.
+    p Se puede hablar de dos cualidades del proceso con exactitud y precisión, se habla de un proceso exacto cuando CP y Cpk son iguales. Se habla de un proceso preciso cuando el CP es mayor a 2.
     p.mb-4 Al realizar los análisis se debe llegar a las causas que ocasionan que un proceso no cumpla con las especificaciones, a continuación, se presentan los tipos de causas:
     
     .row.justify-content-center.mb-5(data-aos='fade-down')
@@ -906,7 +906,7 @@
                   h4.mb-1 Caso 1 - Fracción de unidades no conformes
                   p.mb-0 Descargue para profundizar en el cálculo y método de graficar la carta de control p (Barbosa, 2016, p. 34).
                 .col-sm-auto.mb-3.mb-sm-0
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/Caso1.zip')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/Caso_1_Fraccion_de_unidades_no_conformes.zip')" target="_blank")
                     span Descargar 
                     i.fas.fa-file-download
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
@@ -939,12 +939,12 @@
                   h4.mb-1 Caso 2 — Número de unidades no conformes (carta np)
                   p.mb-0 Descargue para profundizar en el cálculo y método de graficar la carta de control p.
                 .col-sm-auto.mb-3.mb-sm-0
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/Caso2.zip')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/Caso_2_Numero_de_unidades_no_conformes_carta_np.zip')" target="_blank")
                     span Descargar 
                     i.fas.fa-file-download 
             
     .subt2.mb-4(data-aos="fade-right")
-      h4.mb-0 Número de no conformidades por unidad (Carta c)
+      h4.mb-0 Número de no conformidades por unidad (carta c)
 
     .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-1.d-none.d-lg-block
@@ -954,13 +954,16 @@
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-lg-8.mb-3.mb-lg-0
-        img(src='@/assets/curso/temas/t1/formula3.svg', alt='')
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Figura 7.
+          span Expresiones aritméticas 
+        img(src='@/assets/curso/temas/t1/formula3.svg', alt='La imagen describe las fórmulas de una carta de control C, utilizada para monitorear la cantidad de defectos o no conformidades en una unidad de inspección de tamaño constante. Incluye el límite de control inferior (LIC), la línea central (LC) y el límite de control superior (LCS), calculados a partir del promedio de defectos (c̄). La línea central representa el número promedio esperado de defectos en el proceso. Los límites de control permiten determinar si las variaciones observadas son normales o si existen causas especiales que requieren atención. Esta herramienta es ampliamente utilizada en control de calidad para evaluar la estabilidad y el desempeño de los procesos.')
       .col-lg-4
         .bg1.p-3.h-100
-          p La línea central se calcula según fórmula.
+          p La línea central se calcula según la fórmula:
           img.w-95x.m-auto(src='@/assets/curso/temas/t1/formula4.svg', alt='')
 
-    p Donde c#[sup ̅ ]  es el número promedio de no conformidades por unidad en una muestra de tamaño n dada. Barbosa (2016. p.36).
+    p Donde c#[sup ̅ ]  es el número promedio de no conformidades por unidad en una muestra de tamaño n dada (Barbosa, 2016, p. 36).
     p Dentro del plan de calidad deben estar especificadas las técnicas de monitoreo, el seguimiento a realizar y las evaluaciones a través de todo el proceso de producción de la prenda, todo con el fin de asegurar la calidad, dentro de procedimientos para estandarizar el manejo de éstas tres actividades relacionadas a la calidad.
     p Los monitoreos y el seguimiento deben estar registrados para establecer las comparaciones y reconocer el avance de calidad de los procesos contenidos en informes de calidad.
     
@@ -976,7 +979,7 @@
                   h4.mb-1 Caso 3 — Número de unidades no conformes (carta c)
                   p.mb-0 Descargue para profundizar en el cálculo y método de graficar la carta de control p.
                 .col-sm-auto.mb-3.mb-sm-0
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/Caso3.zip')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/Caso_3_Numero_de_no_conformidades_por_unidad_carta_c.zip')" target="_blank")
                     span Descargar 
                     i.fas.fa-file-download
 
