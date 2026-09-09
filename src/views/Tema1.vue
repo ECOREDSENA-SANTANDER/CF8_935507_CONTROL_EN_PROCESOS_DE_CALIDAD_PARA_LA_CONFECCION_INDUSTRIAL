@@ -751,7 +751,7 @@
                 td Menor e igual a 0
                 td La media del proceso está fuera de las especificaciones, se deben realizar grandes cambios en el proceso.
         
-    p Se puede hablar de dos cualidades del proceso con exactitud y precisión, se habla de un proceso exacto cuando CP y Cpk son iguales. Se habla de un proceso preciso cuando el CP es mayor a 2.
+    p Se puede hablar de dos cualidades del proceso con exactitud y precisión, se habla de un proceso exacto cuando Cp y Cpk son iguales. Se habla de un proceso preciso cuando el Cp es mayor a 2.
     p.mb-4 Al realizar los análisis se debe llegar a las causas que ocasionan que un proceso no cumpla con las especificaciones, a continuación, se presentan los tipos de causas:
     
     .row.justify-content-center.mb-5(data-aos='fade-down')
