@@ -70,19 +70,19 @@
         ol.lista-ol--cuadro.lista-ol--separador.fa-lista
           li    
             .lista-ol--cuadro__vineta
-              span.text-dark.fw-bold 1
+              span.text-dark.fw-bold 5
             span.mb-0 Bases de datos para gráficos.
           li    
             .lista-ol--cuadro__vineta
-              span.text-dark.fw-bold 2
+              span.text-dark.fw-bold 6
             span.mb-0 Bases de datos en la nube.
           li    
             .lista-ol--cuadro__vineta
-              span.text-dark.fw-bold 3
+              span.text-dark.fw-bold 7
             span.mb-0 Inteligencia Artificial (IA).
           li    
             .lista-ol--cuadro__vineta
-              span.text-dark.fw-bold 4
+              span.text-dark.fw-bold 8
             span.mb-0 Cadenas de bloques (#[em Blockchain]).
     
     p.mb-4 En la recolección de información se pueden utilizar algunas aplicaciones como: Evernote, Ubernote, Searcheeze, Catch Notes, Justnotes, Nevernote, mediante las cuales se puede sincronizar la información en los diferentes dispositivos, sea un computador, una #[em tablet] o de un celular al correo electrónico, por ejemplo.
@@ -735,7 +735,6 @@
           h5 Tabla 3.
           span Análisis del índice de capacidad real del proceso — Cpk
         .tarjeta.color-acento-contenido--borde.p-3
-          h4.text-center ANÁLISIS DE ÍNDlCE DE CAPACIDAD POTENCIAL
           table
             thead
               tr.text-center
@@ -845,8 +844,8 @@
                 img(src='@/assets/curso/temas/t1/ico-list.svg')
                 span.mb-0 Disminuyen rechazos.
 
-    p.mb-4 De acuerdo con Barbosa (2016) “las cartas de monitoreo se clasifican por variable y por atributo. Las cartas de control por variable son utilizadas cuando la característica de calidad que se quiere medir es de tipo continuo, mientras que las cartas de control por atributo se utilizan cuando la característica de calidad que se quiere medir es de tipo discreto y solo puede tomar dos valores: conforme o no conforme”. (p.30). Las cartas de monitoreo para atributos se aplican cuando la característica de calidad del proceso no es medible y el producto es considerado como conforme o no conforme, dependiendo del número de no conformidades que tiene” (p.33).
-
+    p.mb-4 De acuerdo con Barbosa (2016), “las cartas de monitoreo se clasifican por variable y por atributo. Las cartas de control por variable son utilizadas cuando la característica de calidad que se quiere medir es de tipo continuo, mientras que las cartas de control por atributo se utilizan cuando la característica de calidad que se quiere medir es de tipo discreto y solo puede tomar dos valores: conforme o no conforme” (p. 30). “Las cartas de monitoreo para atributos se aplican cuando la característica de calidad del proceso no es medible y el producto es considerado como conforme o no conforme, dependiendo del número de no conformidades que tiene” (p. 33).
+    
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7(data-aos="fade-right")
         p Teniendo en cuenta los atributos se pueden desarrollar cartas y gráficos de control para:
@@ -937,7 +936,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-3.mb-sm-0.text-white
                   h4.mb-1 Caso 2 — Número de unidades no conformes (carta np)
-                  p.mb-0 Descargue para profundizar en el cálculo y método de graficar la carta de control p.
+                  p.mb-0 Descargue para profundizar en el cálculo y método para graficar la carta de control np.
                 .col-sm-auto.mb-3.mb-sm-0
                   a.boton.color-acento-botones(:href="obtenerLink('downloads/Caso_2_Numero_de_unidades_no_conformes_carta_np.zip')" target="_blank")
                     span Descargar 
@@ -976,8 +975,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-3.mb-sm-0.text-white
-                  h4.mb-1 Caso 3 — Número de unidades no conformes (carta c)
-                  p.mb-0 Descargue para profundizar en el cálculo y método de graficar la carta de control p.
+                  h4.mb-1 Caso 3 — Número de no conformidades por unidad (carta c)
+                  p.mb-0 Descargue para profundizar en el cálculo y método para graficar la carta de control c.
                 .col-sm-auto.mb-3.mb-sm-0
                   a.boton.color-acento-botones(:href="obtenerLink('downloads/Caso_3_Numero_de_no_conformidades_por_unidad_carta_c.zip')" target="_blank")
                     span Descargar 
