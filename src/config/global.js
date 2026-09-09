@@ -229,8 +229,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Jorge Eduardo Rueda Peña ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Sandra Liliana Cristancho Cruz',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
