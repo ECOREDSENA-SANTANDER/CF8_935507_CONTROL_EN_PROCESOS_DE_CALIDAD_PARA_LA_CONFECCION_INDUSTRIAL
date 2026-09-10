@@ -117,16 +117,13 @@ export default {
     {
       referencia:
         'Barbosa Correa, R. (2016). Monitoreo y análisis estadístico de proceso con aplicaciones. Universidad del Norte.',
-      link: '',
     },
     {
       referencia: 'Salazar, B. (2019). Capacidad de procesos.',
-      link: '',
     },
     {
       referencia:
         'Cortés, M. (2017). Ocho tecnologías que están transformando las bases de datos. REVISTA CIO MÉXICO.',
-      link: '',
     },
     {
       referencia: 'Estadísticas de SPSS. Estadísticas de IBM SPSS. (2020).',
