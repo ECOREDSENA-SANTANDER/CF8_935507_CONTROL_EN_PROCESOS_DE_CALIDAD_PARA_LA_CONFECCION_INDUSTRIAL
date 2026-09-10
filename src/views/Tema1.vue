@@ -890,7 +890,7 @@
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 5.
           span Fórmulas para calcular los límites de control de la carta p
-        img(src='@/assets/curso/temas/t1/formula.svg', alt='Tabla con las fórmulas del límite inferior, la línea central y el límite superior de la carta de control p.')
+        img(src='@/assets/curso/temas/t1/fig5.svg', alt='Tabla con las fórmulas del límite inferior, la línea central y el límite superior de la carta de control p.')
 
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right")
@@ -921,7 +921,7 @@
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 6.
           span Fórmulas para calcular los límites de control de la carta np
-        img.mb-2(src='@/assets/curso/temas/t1/formula2.svg', alt='Tabla con las fórmulas del límite inferior, la línea central y el límite superior de la carta de control np.')
+        img.mb-2(src='@/assets/curso/temas/t1/fig6.svg', alt='Tabla con las fórmulas del límite inferior, la línea central y el límite superior de la carta de control np.')
         figcaption Fuente: Barbosa (2016. P. 34)
 
     p.mb-4 Luego de realizar los cálculos, se elabora la gráfica. Posteriormente, se realiza el análisis, se efectúan los monitoreos y seguimientos, y se evalúan los resultados.
@@ -956,7 +956,7 @@
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 7.
           span Expresiones aritméticas 
-        img(src='@/assets/curso/temas/t1/formula3.svg', alt='La imagen describe las fórmulas de una carta de control C, utilizada para monitorear la cantidad de defectos o no conformidades en una unidad de inspección de tamaño constante. Incluye el límite de control inferior (LIC), la línea central (LC) y el límite de control superior (LCS), calculados a partir del promedio de defectos (c̄). La línea central representa el número promedio esperado de defectos en el proceso. Los límites de control permiten determinar si las variaciones observadas son normales o si existen causas especiales que requieren atención. Esta herramienta es ampliamente utilizada en control de calidad para evaluar la estabilidad y el desempeño de los procesos.')
+        img(src='@/assets/curso/temas/t1/fig7.svg', alt='La imagen describe las fórmulas de una carta de control C, utilizada para monitorear la cantidad de defectos o no conformidades en una unidad de inspección de tamaño constante. Incluye el límite de control inferior (LCI), la línea central (LC) y el límite de control superior (LCS), calculados a partir del promedio de defectos (c̄). La línea central representa el número promedio esperado de defectos en el proceso. Los límites de control permiten determinar si las variaciones observadas son normales o si existen causas especiales que requieren atención. Esta herramienta es ampliamente utilizada en control de calidad para evaluar la estabilidad y el desempeño de los procesos.')
       .col-lg-4
         .bg1.p-3.h-100
           p La línea central se calcula según la fórmula:
