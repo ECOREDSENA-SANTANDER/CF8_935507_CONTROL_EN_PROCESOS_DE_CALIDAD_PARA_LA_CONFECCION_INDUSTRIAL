@@ -15,14 +15,14 @@
       .col-lg-7(data-aos="fade-left")
         p Para recolectar la información de las inspecciones como parte de la gestión de las actividades de organización de la información, se utilizan documentos de registro que se han creado previamente según el área, proceso o insumo a inspeccionar. Es primordial crear un protocolo para el manejo de la información donde se establezcan los parámetros para el cuidado de su seguridad.
         .bg1.p-4.mb-4
-          p.mb-0 En la información recolectada de las inspecciones de calidad, se deben definir los datos que se van a recoger; la forma, el momento y el lugar de recolectarlos, la forma de custodiarlos y a quienes están disponibles; posteriormente, se procede a realizar las clasificaciones necesarias.
+          p.mb-0 En la información recolectada de las inspecciones de calidad, se deben definir los datos que se van a recoger; la forma, el momento y el lugar de recolectarlos, la forma de custodiarlos y a quiénes están disponibles; posteriormente, se realizan las clasificaciones necesarias.
         p Es importante, además, asignar la responsabilidad en la gestión de la información para contribuir a la estructura organizacional, para poder brindar los soportes pertinentes.
 
     .row.justify-content-center(data-aos="fade")
       .col-lg-5.mb-4
         .bg2.p-4.px-lg-5.h-100.d-flex.flex-column.justify-content-center
           h5 ¿Por qué es necesario un protocolo para el manejo de la información?
-          p.mb-0 Los protocolos son un conjunto de reglas que rigen el proceso, por lo cual da seguridad en la presentación de informes, optimiza la utilización de tiempo y permite entregar información especializada dando relevancia al área de calidad.
+          p.mb-0 Los protocolos son un conjunto de reglas que rigen el proceso; por lo tanto, dan seguridad en la presentación de informes, optimizan la utilización del tiempo y permiten entregar información especializada, dando relevancia al área de calidad.
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/t1/2.svg', alt='')
       .col-lg-4
@@ -37,7 +37,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        p En la recolección de la información y su registro en las bases de datos se han utilizado comúnmente las herramientas de Office como Excel, o Access, en hojas de cálculo y con el protagonismo ganado por la internet, con la cual mejora la comunicación en las empresas. Se han ajustado a las necesidades en términos de lugar y en tiempo, además se han desarrollado varios programas para el manejo de la información.
+        p En la recolección de la información y su registro en las bases de datos se han utilizado comúnmente las herramientas de Office como Excel o Access, en hojas de cálculo y con el protagonismo ganado por la internet, con la cual mejora la comunicación en las empresas. Se han ajustado a las necesidades en términos de lugar y en tiempo; además, se han desarrollado varios programas para el manejo de la información.
         .bg1.p-4.px-lg-5.d-flex.flex-column.justify-content-center
           p.mb-0 Teniendo en cuenta lo anterior, las bases de datos creadas a partir de la información recolectada en los procesos de inspección se manejaban solo por cuadros o tablas, lo cual resultaba dispendioso en el manejo de una gran cantidad de datos. Por consiguiente, las tecnologías de la información son un soporte dinámico para la comunicación de información en la empresa.
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
@@ -53,15 +53,15 @@
           li    
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 1
-            span.mb-0 Unidades de procesamiento de gráficos (#[em GPU]).
+            span.mb-0 Unidades de procesamiento de gráficos (GPU).
           li    
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 2
-            span.mb-0 Memorias no volátiles (#[em NVRAM]) información guardada también en ausencia de energía.
+            span.mb-0 Memorias no volátiles (NVRAM), información guardada también en ausencia de energía.
           li    
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 3
-            span.mb-0 #[em SQL (Structured Query Language)].
+            span.mb-0 SQL (Structured Query Language).
           li    
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 4
@@ -79,11 +79,11 @@
           li    
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 7
-            span.mb-0 Inteligencia Artificial (IA).
+            span.mb-0 Inteligencia artificial (IA).
           li    
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 8
-            span.mb-0 Cadenas de bloques (#[em Blockchain]).
+            span.mb-0 Cadenas de bloques (#[em blockchain]).
     
     p.mb-4 En la recolección de información se pueden utilizar algunas aplicaciones como: Evernote, Ubernote, Searcheeze, Catch Notes, Justnotes, Nevernote, mediante las cuales se puede sincronizar la información en los diferentes dispositivos, sea un computador, una #[em tablet] o de un celular al correo electrónico, por ejemplo.
 
@@ -91,17 +91,17 @@
       .col-lg-5.col-md-8.col-9.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/6.png', alt='')
       .col-lg-7(data-aos="fade-left")
-        p Debido al manejo de gran cantidad de datos, y por el riesgo a la pérdida de información por algún daño en los ordenadores de las empresas o memorias externas, actualmente se manejan tecnologías de la información y comunicación sencillas para el almacenamiento de la información en la nube como: Dropbox, Gsuite, OneDrive, iCloud.
-        p Las tecnologías de la información más avanzadas que se han ido introduciendo son aplicaciones de programación y robótica y realidad virtual. Las aplicaciones como escáneres para ubicación y cuantificación de defectos, y simuladores ayudan al procedimiento de inspección de calidad.
+        p Debido al manejo de gran cantidad de datos, y por el riesgo a la pérdida de información por algún daño en los ordenadores de las empresas o memorias externas, actualmente se manejan tecnologías de la información y comunicación sencillas para el almacenamiento de la información en la nube, como: Dropbox, G Suite, OneDrive, iCloud.
+        p Las tecnologías de la información más avanzadas que se han ido introduciendo son aplicaciones de programación y robótica y realidad virtual. Las aplicaciones como escáneres para ubicación y cuantificación de defectos y simuladores ayudan al procedimiento de inspección de calidad.
 
-    p.mb-4 Existen programas especializados para el análisis y control de calidad entre los cuales se destacan:
+    p.mb-4 Existen programas especializados para el análisis y control de calidad, entre los cuales se destacan:
 
     .row.justify-content-center
       .col-lg-8(data-aos="fade-right")
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-primario")
           .row(titulo="Statgraphics centurion")
             .col-md-11
-              p Es una herramienta de análisis de datos que combina procedimientos analíticos con gráficos interactivos proporcionando un entorno integrado de análisis que puede ser aplicado en cada una de las fases de un proyecto, desde los protocolos de gestión Seis Sigma hasta los procesos de control de calidad.
+              p Es una herramienta de análisis de datos que combina procedimientos analíticos con gráficos interactivos, proporcionando un entorno integrado de análisis que puede ser aplicado en cada una de las fases de un proyecto, desde los protocolos de gestión Seis Sigma hasta los procesos de control de calidad.
               p.mb-4 En la Figura 1 se presentan ejemplos de reportes gráficos generados por un programa de análisis estadístico para apoyar el análisis de la información de calidad.
               .row.justify-content-center
                 .col-lg-9.col-11
@@ -112,13 +112,13 @@
                     img(src='@/assets/curso/temas/t1/fig1.png', alt='Captura de una interfaz de un programa de análisis estadístico que presenta diferentes tipos de gráficos utilizados para el análisis de información de calidad, como histogramas, gráficos de dispersión, gráficos de control y representaciones comparativas de datos.')
           .row(titulo="SPSS Statistics")
             .col-md-11
-              p Es un #[em software] flexible para el control de la calidad mediante la utilización de herramientas estadísticas, tanto en estadística básica, como avanzada; para el análisis de la capacidad de procesos y generación de gráficos como Pareto, histogramas, entre otros; puede introducir hojas de cálculo de Excel o ASCII y puede editar datos ya que se integra fácilmente con extensiones para código abierto.
+              p Es un #[em software] flexible para el control de la calidad mediante la utilización de herramientas estadísticas, tanto en estadística básica como avanzada; para el análisis de la capacidad de procesos y generación de gráficos como Pareto, histogramas, entre otros; puede introducir hojas de cálculo de Excel o ASCII y puede editar datos, ya que se integra fácilmente con extensiones para código abierto.
           .row(titulo="SAS - <em>Software</em> y Soluciones de Analítica")
             .col-md-11
-              p Es un #[em software] que puede ser utilizado en varios sectores industriales, el cual aplica varias técnicas de calidad, para desarrollar gráficos como Pareto, análisis de la capacidad, diagrama de control e Ishikawa o causa - efecto.
+              p Es un #[em software] que puede ser utilizado en varios sectores industriales, el cual aplica varias técnicas de calidad para desarrollar gráficos como Pareto, análisis de la capacidad, diagrama de control e Ishikawa o causa-efecto.
           .row(titulo="Minitab")
             .col-md-11
-              p Es otro #[em software] para el manejo de herramientas estadísticas en el control de calidad, donde al igual que los anteriores se pueden desarrollar las diferentes técnicas de calidad. Su uso es amigable pues es parecido al programa de Excel.
+              p Es otro #[em software] para el manejo de herramientas estadísticas en el control de calidad, donde, al igual que los anteriores, se pueden desarrollar las diferentes técnicas de calidad. Su uso es amigable, pues es parecido al programa de Excel.
       .col-lg-4.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/7.svg', alt='')
 
@@ -136,7 +136,7 @@
                 img(src='@/assets/curso/temas/t1/8.png', alt='')
               .col-lg-9
                 p En la aplicación del sistema de información de calidad se planea, recolecta, procesa, almacena, distribuye, recupera e incluye las actividades de administración de la información de calidad para los fines definidos por la dirección, en pro de la mejora de la calidad de la empresa.
-                p.mb-4 Las características que debe cumplir de un sistema de información son:
+                p.mb-4 Las características que debe cumplir un sistema de información son:
                 SlyderF.circl-arrow(columnas="col-md-6 col-lg-4")
                   .tarjeta.bg3.p-4
                     .row.justify-content-center.mb-3
@@ -199,29 +199,30 @@
     .row.justify-content-center.mb-5
       .col-lg-7
         p Las fases para el desarrollo de un sistema de información son continuas; por ello, se presentan como un ciclo en la siguiente imagen:
-        .row.justify-content-center.align-items-center
-          .col-lg-4.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t1/9.svg', alt='')
-          .col-lg-8
-            ul.lista-ul.fa-lista.list-ico.mb-0
-              li
-                img(src='@/assets/curso/temas/t1/ico-list.svg')
-                span.mb-0 Identificar las necesidades de información.
-              li
-                img(src='@/assets/curso/temas/t1/ico-list.svg')
-                span.mb-0 Diseñar el sistema de información.
-              li
-                img(src='@/assets/curso/temas/t1/ico-list.svg')
-                span.mb-0 Desarrollo de documentación y uso de programas informáticos.
-              li
-                img(src='@/assets/curso/temas/t1/ico-list.svg')
-                span.mb-0 Realizar pruebas.
-              li
-                img(src='@/assets/curso/temas/t1/ico-list.svg')
-                span.mb-0 Implementar el sistema.
-              li
-                img(src='@/assets/curso/temas/t1/ico-list.svg')
-                span.mb-0 Realizar mantenimiento para evitar fallas o corregirlas.
+        .bg9.p-3
+          .row.justify-content-center.align-items-center
+            .col-lg-4.d-none.d-lg-block
+              img.px-2(src='@/assets/curso/temas/t1/9.svg', alt='')
+            .col-lg-8
+              ul.lista-ul.fa-lista.list-ico.mb-0
+                li.mb-2
+                  img(src='@/assets/curso/temas/t1/ico-list.svg')
+                  span.mb-0 Identificar las necesidades de información.
+                li.mb-2
+                  img(src='@/assets/curso/temas/t1/ico-list.svg')
+                  span.mb-0 Diseñar el sistema de información.
+                li.mb-2
+                  img(src='@/assets/curso/temas/t1/ico-list.svg')
+                  span.mb-0 Desarrollo de documentación y uso de programas informáticos.
+                li.mb-2
+                  img(src='@/assets/curso/temas/t1/ico-list.svg')
+                  span.mb-0 Realizar pruebas.
+                li.mb-2
+                  img(src='@/assets/curso/temas/t1/ico-list.svg')
+                  span.mb-0 Implementar el sistema.
+                li.mb-0
+                  img(src='@/assets/curso/temas/t1/ico-list.svg')
+                  span.mb-0 Realizar mantenimiento para evitar fallas o corregirlas.
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/10.png', alt='')
 
@@ -242,13 +243,13 @@
       .col-lg-1.col-md-2.col-4.mb-3.mb-md-0.d-none.d-md-block(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/11.png', alt='')
       .col-lg-11.col-md-10(data-aos="fade-left")
-        p.mb-0 El sistema de información de calidad integra a las personas del departamento de calidad, los procedimientos y la tecnología; las cuales, al interactuar, comprenden la información contenida en los archivos y formatos, sean físicos o digitales; en el caso de información en físico se dispone de un espacio, un lugar por carpetas rotuladas. En el caso de la información manejada en digital, se dispone de un lugar en los computadores o en la nube, la cual debe estar organizada por carpetas debidamente rotuladas y con los permisos especificados para su disposición.
+        p.mb-0 El sistema de información de calidad integra a las personas del departamento de calidad, los procedimientos y la tecnología, los cuales, al interactuar, comprenden la información contenida en los archivos y formatos, sean físicos o digitales; en el caso de información en físico, se dispone de un espacio, un lugar por carpetas rotuladas. En el caso de la información manejada en digital, se dispone de un lugar en los computadores o en la nube, la cual debe estar organizada por carpetas debidamente rotuladas y con los permisos especificados para su disposición.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.d-none.d-lg-block(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/12.svg', alt='')
       .col-lg-9(data-aos="fade-left")
-        p La información que constituye un sistema de información de calidad no constituye solamente las inspecciones, además comprende:
+        p La información que constituye un sistema de información de calidad no constituye solamente las inspecciones; además, comprende:
         ul.lista-ul.fa-lista.list-ico.mb-0
           li.mb-2
             img(src='@/assets/curso/temas/t1/ico-list.svg')
@@ -269,7 +270,7 @@
             img(src='@/assets/curso/temas/t1/ico-list.svg')
             span.mb-0 Información de auditorías.
 
-    p.mb-5 En la planeación del sistema de información de calidad se utilizan programas de computador, se debe analizar que sea flexible en el ingreso de nuevos datos, para que puedan ser rápidamente procesados, porque el ingreso debe ser continuo, en tiempo real y de fácil acceso.
+    p.mb-5 En la planeación del sistema de información de calidad se utilizan programas de computador; se debe analizar que sea flexible en el ingreso de nuevos datos, para que puedan ser rápidamente procesados, porque el ingreso debe ser continuo, en tiempo real y de fácil acceso.
 
     .subt.mb-4(data-aos="fade-right")
       img(src='@/assets/curso/temas/t1/subt.svg', alt='')
@@ -286,14 +287,14 @@
             .col-auto
               img(src="@/assets/curso/temas/t1/tarj3-1.svg", alt="")
             .col
-              h5 Fallas o defectos, son el efecto visual que produce una imperfección que se puede presentar en el proceso.
-              p Por ejemplo, se presenta un caso común en una producción en la cual aparecen manchas de aceite sobre la prenda; al investigar sobre el suceso se logra determinar que la falla la ocasiona la máquina al no tener un tapón por donde sale el aceite, lo cual produce el defecto.
+              h5 Fallas o defectos son el efecto visual que produce una imperfección que se puede presentar en el proceso.
+              p Por ejemplo, se presenta un caso común en una producción en la cual aparecen manchas de aceite sobre la prenda; al investigar sobre el suceso, se logra determinar que la falla la ocasiona la máquina al no tener un tapón por donde sale el aceite, lo cual produce el defecto.
         .crd.crd--avatarHorizontal.crd--last.py-4
           .row.align-items-center
             .col-auto
               img(src="@/assets/curso/temas/t1/tarj3-2.png", alt="")
             .col
-              h5 Errores de origen humano, son acciones que realiza el personal que produce defectos en la producción, los cuales se pueden organizar como se había mencionado en un listado por categorías, organizados en niveles, conforme a las consecuencias que producen.
+              h5 Errores de origen humano: son acciones que realiza el personal que produce defectos en la producción, los cuales se pueden organizar, como se había mencionado, en un listado por categorías, organizados en niveles, conforme a las consecuencias que producen.
               p Por ejemplo: en el proceso de producción de una camisa, en un lote específico se dobladilla el ruedo a una diferente medida a la solicitada, se analiza el error y las posibles causas que podrían estar en la instrucción que se dio al coequipero, en la graduación de la guía dobladilladora realizada por el técnico de mantenimiento, en la mala interpretación de la ficha de producción u otras, además de una combinación de varias de las causas. Teniendo en cuenta lo anterior, no se buscan culpables en quien produjo el defecto o falla, sino el responsable para establecer planes de capacitación y mejoramiento o cambios en herramientas, pies, aditamentos y maquinaria que eliminen la recurrencia del defecto.
     
     p.mb-4 El seguimiento de estos reportes hace parte del sistema de información de calidad de la empresa, los cuales deben ser monitoreados y valorados por el equipo de calidad con el fin de incluir en los planes de calidad las acciones de mejora.
@@ -345,9 +346,9 @@
       .col-lg-5.col-md-8.col-9.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/14.png', alt='')
       .col-lg-7(data-aos="fade-left")
-        p Una vez establecido el procedimiento de las inspecciones, con sus recursos y variables a medir claras, y los atributos de las prendas definidos, se recopila la información de las inspecciones. Los inspectores realizan su actividad utilizando los formatos, los cuales se organizan según el tipo de inspección, y mediante hojas de cálculo se van trascribiendo los datos. Con el uso del sistema de información van realizando cálculos, clasificaciones y demás operaciones con el fin de tener disponible la información en tiempo real.
+        p Una vez establecido el procedimiento de las inspecciones, con sus recursos y variables a medir claras, y los atributos de las prendas definidos, se recopila la información de las inspecciones. Los inspectores realizan su actividad utilizando los formatos, los cuales se organizan según el tipo de inspección, y mediante hojas de cálculo se van transcribiendo los datos. Con el uso del sistema de información van realizando cálculos, clasificaciones y demás operaciones con el fin de tener disponible la información en tiempo real.
         .bg1.p-4
-          p.mb-0 Durante un día en una planta de confección puede surgir una gran cantidad de información de los diferentes tipos de inspecciones como son las inspecciones de insumos, productos en proceso, productos terminados con la rapidez y certeza necesaria.
+          p.mb-0 Durante un día en una planta de confección puede surgir una gran cantidad de información de los diferentes tipos de inspecciones como son las inspecciones, de insumos, productos en proceso, productos terminados, con la rapidez y certeza necesaria.
     
     p.mb-4 Teniendo en cuenta lo anterior, los pasos para recopilar los datos de las inspecciones son los siguientes:
 
@@ -385,7 +386,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-7
-        p Es importante mencionar métodos para recopilar información que se puedan utilizar en las inspecciones, los cuales al combinarlos complementan la información, comprendiendo todo lo relacionado con la inspección sobre todo la información relevante, los cuales son los siguientes:
+        p Es importante mencionar métodos para recopilar información que se puedan utilizar en las inspecciones, los cuales, al combinarlos, complementan la información, comprendiendo todo lo relacionado con la inspección, sobre todo la información relevante, los cuales son los siguientes:
         .row.justify-content-center.align-items-center
           .col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/t1/15.svg', alt='')
@@ -409,8 +410,8 @@
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/16.png', alt='')  
 
-    p Algunos instrumentos para respaldar la recolección de la información son las cámaras de video, hoy en día los celulares tienen buena resolución y se pueden realizar fotos y videos.
-    p.mb-5 Otro aspecto para examinar relacionado con la recolección de la información de las inspecciones, son los costos derivados de la actividad, los cuales hacen parte de los costos de calidad de la empresa para tener en cuenta y controlar.
+    p Algunos instrumentos para respaldar la recolección de la información son las cámaras de video; hoy en día los celulares tienen buena resolución y se pueden realizar fotos y videos.
+    p.mb-5 Otro aspecto para examinar relacionado con la recolección de la información de las inspecciones son los costos derivados de la actividad, los cuales hacen parte de los costos de calidad de la empresa para tener en cuenta y controlar.
 
     .subt.mb-4(data-aos="fade-right")
       img(src='@/assets/curso/temas/t1/subt.svg', alt='')
@@ -423,9 +424,9 @@
         .bg5.p-4.h-100
           img.w-95x.mb-3(src='@/assets/curso/temas/t1/18.svg', alt='')
           p Con la globalización, se requiere compartir la información con el fin de generar cambios acordados previamente a través de metodologías de trabajo grupal, garantizando las mejoras necesarias en los productos y en los procesos.
-          p.mb-0 La información organizada y clasificada para su análisis se puede compartir a las áreas de la empresa según su competencia, por lo cual se debe tener cuidado con qué información se comparte y a quien.
+          p.mb-0 La información organizada y clasificada para su análisis se puede compartir a las áreas de la empresa según su competencia, por lo cual se debe tener cuidado con qué información se comparte y a quién.
 
-    p Antes de compartir la información se debe revisar que cumpla con las siguientes características:      
+    p Antes de compartir la información, se debe revisar que cumpla con las siguientes características:      
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-md-6.mb-3
@@ -453,7 +454,7 @@
             .p-4
               h4.text-center.mb-0 Relevancia
     
-    p.mb-5 Existe información que se comparte de manera automática debido al uso de herramientas tecnológicas, por tanto, se debe limitar el uso compartido de archivos y documentos, los cuales pueden estar tanto en forma física como digital, para evitar problemas que desencadenen daños mayores en la calidad, afectando el logro de metas y objetivos de la empresa en pro de su competitividad.
+    p.mb-5 Existe información que se comparte de manera automática debido al uso de herramientas tecnológicas; por tanto, se debe limitar el uso compartido de archivos y documentos, los cuales pueden estar tanto en forma física como digital, para evitar problemas que desencadenen daños mayores en la calidad, afectando el logro de metas y objetivos de la empresa en pro de su competitividad.
 
     .subt.mb-4(data-aos="fade-right")
       img(src='@/assets/curso/temas/t1/subt.svg', alt='')
@@ -462,16 +463,16 @@
     .row.justify-content-center.mb-5(data-aos="fade")
       .col-lg-4.mb-4.mb-lg-0
         .bg6.p-4.h-100.d-flex.flex-column.justify-content-center
-          p.mb-0 Conforme al procedimiento de gestión documental, la información debe estar disponible para los interesados con el fin de brindar trasparencia en los procesos. La información debe estar abierta, tanto en el momento en que se realicen auditorías de tipo externo como al personal de supervisión y control que requieran revisar de manera directa los resultados de las inspecciones, para apoyar el proceso de toma de decisiones.
+          p.mb-0 Conforme al procedimiento de gestión documental, la información debe estar disponible para los interesados con el fin de brindar transparencia en los procesos. La información debe estar abierta, tanto en el momento en que se realicen auditorías de tipo externo como al personal de supervisión y control que requiera revisar de manera directa los resultados de las inspecciones, para apoyar el proceso de toma de decisiones.
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/t1/19.svg' alt='')
       .col-lg-5
         .deco.mb-3.d-none.d-lg-block
-        p Teniendo en cuenta lo anterior pueden consultar conforme a los siguientes requisitos:
+        p Teniendo en cuenta lo anterior, pueden consultar conforme a los siguientes requisitos:
         ul.lista-ul.fa-lista.list-ico
           li.mb-lg-4
             img(src='@/assets/curso/temas/t1/ico-list.svg')
-            span.mb-0 El personal que va a consultar tenga los permisos necesarios, y relación con el proceso.
+            span.mb-0 El personal que va a consultar debe tener los permisos necesarios y relación con el proceso.
           li.mb-lg-4
             img(src='@/assets/curso/temas/t1/ico-list.svg')
             span.mb-0 La información para consultar debe estar previamente recopilada.
@@ -484,13 +485,13 @@
       img(src='@/assets/curso/temas/t1/subt.svg', alt='')
       h3.mb-0 Seguimiento y monitoreo de información
         
-    p Una vez se realizan las inspecciones y se determinan las acciones a realizar, se procede a su seguimiento documentando el avance de estas conforme al plan de calidad, con el fin de realizar los ajustes pertinentes en el momento requerido. Los resultados de los indicadores presentan el comportamiento de alguno de los aspectos relacionados con la calidad, por lo tanto, apoya el seguimiento de la información.
+    p Una vez se realizan las inspecciones y se determinan las acciones a realizar, se procede a su seguimiento, documentando el avance de estas conforme al plan de calidad, con el fin de realizar los ajustes pertinentes en el momento requerido. Los resultados de los indicadores presentan el comportamiento de alguno de los aspectos relacionados con la calidad; por lo tanto, apoya el seguimiento de la información.
 
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right")
         p El monitoreo es un proceso continuo y sistemático que mide el progreso de los resultados propuestos. Se debe establecer un periodo y comparar los resultados con los indicadores planeados. Este proceso permite verificar el resultado de las acciones correctivas y de las demás actividades relacionadas, durante las cuales se registra y recopila cada vez más información.
         .bg1.p-4.px-lg-5.d-flex.flex-column.justify-content-center
-          p.mb-0 Por su parte el seguimiento se refiere a un conjunto de actividades con el propósito de comprobar que se cumplan las metas trazadas, y va relacionando otros procesos para obtener los logros propuestos. El seguimiento va sistematizando los resultados del monitoreo, los recursos utilizados, cumplimiento de metas, por lo tanto, evalúa el logro de los objetivos.
+          p.mb-0 Por su parte, el seguimiento se refiere a un conjunto de actividades con el propósito de comprobar que se cumplan las metas trazadas, y va relacionando otros procesos para obtener los logros propuestos. El seguimiento va sistematizando los resultados del monitoreo, los recursos utilizados, cumplimiento de metas; por lo tanto, evalúa el logro de los objetivos.
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/20.png', alt='')
 
@@ -537,16 +538,16 @@
                 i.far.fa-check-circle
                 span.mb-0.text-white Establecer plazos de entrega de informes de seguimiento.
 
-    p La evaluación es el análisis crítico de los resultados de las inspecciones, seguimientos, y demás actividades relacionadas con el fin de comparar el logro de objetivos planteados.
-    p.mb-4 La evaluación está relacionada al monitoreo y seguimiento, se debe tener en cuenta que se realiza de forma periódica, la cual puede ser anual o conforme a los periodos de las colecciones de las prendas. Es el insumo para la planeación de la producción anual y contribuye a la realización de nuevas estrategias.
+    p La evaluación es el análisis crítico de los resultados de las inspecciones, seguimientos y demás actividades relacionadas con el fin de comparar el logro de objetivos planteados.
+    p.mb-4 La evaluación está relacionada con el monitoreo y seguimiento; se debe tener en cuenta que se realiza de forma periódica, la cual puede ser anual o conforme a los periodos de las colecciones de las prendas. Es el insumo para la planeación de la producción anual y contribuye a la realización de nuevas estrategias.
 
     .row.justify-content-center.mb-4
       .col-lg-5.d-none.d-lg-block(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/21.png', alt='')
       .col-lg-7(data-aos="fade-left")
-        p Para evaluar la capacidad de un proceso se recurre a las herramientas de calidad, como histogramas, gráficos de control o planillas de inspección.
-        p Para medir algún cambio o implementación se efectúa un estudio de índices de capacidad. Para ello se establecen las fases del proceso, desde el diseño de la prenda hasta los límites de especificación, los cuales son establecidos por una norma, la empresa y el cliente.
-        p Los límites constituyen requisitos, es por eso por lo que se deben tener especificados los valores de los límites superior e inferior de un proceso, así como el valor esperado que es el valor nominal. Para analizar un proceso se realizan las mediciones necesarias para calcular la media de estos y la variación de los datos con la desviación estándar, con el fin de calcular que la variable se encuentre en los límites definidos, por tanto, se estima la capacidad del proceso.
+        p Para evaluar la capacidad de un proceso, se recurre a las herramientas de calidad, como histogramas, gráficos de control o planillas de inspección.
+        p Para medir algún cambio o implementación, se efectúa un estudio de índices de capacidad. Para ello se establecen las fases del proceso, desde el diseño de la prenda hasta los límites de especificación, los cuales son establecidos por una norma, la empresa y el cliente.
+        p.mb-0 Los límites constituyen requisitos; es por eso por lo que se deben tener especificados los valores de los límites superior e inferior de un proceso, así como el valor esperado, que es el valor nominal. Para analizar un proceso, se realizan las mediciones necesarias para calcular la media de estos y la variación de los datos con la desviación estándar, con el fin de calcular que la variable se encuentre en los límites definidos; por tanto, se estima la capacidad del proceso.
 
     p.mb-4 Una vez se realicen los gráficos de control, se analizan las causas de desviación y los puntos que estén fuera de control; se sigue monitoreando el proceso con los índices de capacidad, los cuales se clasifican según el siguiente cuadro:
 
@@ -559,7 +560,7 @@
           caption Fuente: Salazar (2019).
           thead
             tr.bg-color-secundario
-              th.text-white(colspan="5") Clasificación índices de capacidad
+              th.text-white(colspan="5") Clasificación de índices de capacidad
             tr.bg-white
               th Posición / alcance temporal
               th Centrado
@@ -624,8 +625,8 @@
             img.px-xl-4(src='@/assets/curso/temas/t1/fig4.svg', alt='Gráfico de una curva de distribución normal utilizada para comparar dispersión y tolerancias en un proceso de calidad. Presenta los límites de especificación inferior y superior, identificados como LEI y LES, y la dispersión natural del proceso representada como 6σ, desde -3σ hasta +3σ.')
         figcaption Fuente: Salazar (2019).
 
-    p Al calcular los resultados se analiza que, si Cp es mayor a 1, quiere decir que el proceso potencialmente cumple con las especificaciones; pero si el Cp es menor a 1, quiere decir que el proceso potencialmente no cumple con las especificaciones, es decir que el producto es no conforme. Teniendo en cuenta lo anterior al realizar los monitoreos, el seguimiento y posteriormente la evaluación con los parámetros se determinan las acciones a realizar.
-    p.mb-4 El siguiente cuadro presenta los análisis para tener en cuenta según la herramienta Seis Sigma, una vez se tenga los resultados de la Cp:
+    p Al calcular los resultados, se analiza que, si Cp es mayor a 1, quiere decir que el proceso potencialmente cumple con las especificaciones; pero si el Cp es menor a 1, quiere decir que el proceso potencialmente no cumple con las especificaciones, es decir, que el producto es no conforme. Teniendo en cuenta lo anterior, al realizar los monitoreos, el seguimiento y posteriormente la evaluación con los parámetros, se determinan las acciones a realizar.
+    p.mb-4 El siguiente cuadro presenta los análisis para tener en cuenta según la herramienta Seis Sigma, una vez se tengan los resultados de la Cp:
 
     .mb-4(data-aos="fade-down")
       .titulo-sexto.color-secundario.mb-3
@@ -644,23 +645,23 @@
             tr.bg-color-acento-contenido
               td.text-center Mayor o igual al 2
               td.text-center Clase mundial
-              td Tiene calidad Seis Sigma
+              td Tiene calidad Seis Sigma.
             tr.bg1
               td.text-center Entre 1,33 y 2
               td.text-center 1
-              td Nivel adecuado alto
+              td Nivel adecuado alto.
             tr.bg4
               td.text-center Entre 1 y 1,33
               td.text-center 2
-              td Nivel medio, requiere un control estricto
+              td Nivel medio, requiere un control estricto.
             tr.bg5
               td.text-center Entre 0,67 y 1
               td.text-center 3
-              td Nivel bajo, requiere análisis de proceso y algunas modificaciones para mejorar la calidad
+              td Nivel bajo, requiere análisis de proceso y algunas modificaciones para mejorar la calidad.
             tr.bg9
               td.text-center Menor a 0,67
               td.text-center 4
-              td Nivel muy bajo, requiere grandes modificaciones
+              td Nivel muy bajo, requiere grandes modificaciones.
 
     .row.bgimg-1.align-items-center.p-3.p-md-4.mb-4(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-4
@@ -708,7 +709,7 @@
                         img(src='@/assets/curso/temas/t1/tarj7-7.png' alt='')
                     p.text-center.mb-0 Cambiar la especificación y así cambiar también los límites de aceptación de la prenda.
 
-    p.mb-4 Para analizar el proceso, incluyendo la media del proceso se calcula el Cpk es decir el índice de capacidad real, el cual es el valor menor entre Cpu y Cpl, a continuación, se presenta las dos fórmulas:
+    p.mb-4 Para analizar el proceso, incluyendo la media del proceso, se calcula el Cpk, es decir, el índice de capacidad real, el cual es el valor menor entre Cpu y Cpl. A continuación, se presentan las dos fórmulas:
 
     .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-6.mb-4.mb-lg-0
@@ -746,14 +747,14 @@
                 td Las prendas cumplen con las especificaciones.
               tr
                 td Menor de 1
-                td Las prendas no cumplen con las especificaciones, se debe realizar cambios en el proceso.
+                td Las prendas no cumplen con las especificaciones; se debe, realizar cambios en el proceso.
               tr
-                td Menor e igual a 0
-                td La media del proceso está fuera de las especificaciones, se deben realizar grandes cambios en el proceso.
+                td Menor o igual a 0
+                td La media del proceso está fuera de las especificaciones; se deben realizar grandes cambios en el proceso.
         
-    p Se puede hablar de dos cualidades del proceso con exactitud y precisión, se habla de un proceso exacto cuando Cp y Cpk son iguales. Se habla de un proceso preciso cuando el Cp es mayor a 2.
-    p.mb-4 Al realizar los análisis se debe llegar a las causas que ocasionan que un proceso no cumpla con las especificaciones, a continuación, se presentan los tipos de causas:
-    
+    p Se puede hablar de dos cualidades del proceso con exactitud y precisión; se habla de un proceso exacto cuando Cp y Cpk son iguales. Se habla de un proceso preciso cuando el Cp es mayor que 2.
+    p.mb-4 Al realizar los análisis, se debe llegar a las causas que ocasionan que un proceso no cumpla con las especificaciones; a continuación, se presentan los tipos de causas:
+        
     .row.justify-content-center.mb-5(data-aos='fade-down')
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3
@@ -771,7 +772,7 @@
             tbody
               tr
                 td Causas naturales
-                td Son propias del proceso, son difíciles de controlar, determinan la capacidad cualitativa del proceso y si solo varia por estas causas, el proceso es estable.
+                td Son propias del proceso, son difíciles de controlar, determinan la capacidad cualitativa del proceso y, si solo varía por estas causas, el proceso es estable.
                 td 
                   p Llamadas 6M:
                   ul.lista-ul--color.fa-lista.mb-0
@@ -819,7 +820,7 @@
       .col-lg-5.d-none.d-lg-block(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/23.png', alt='')
       .col-lg-7(data-aos="fade-left")
-        p Los gráficos de control, también llamadas cartas de monitoreo contribuyen a la disminución de costos de no calidad porque:
+        p Los gráficos de control, también llamadas cartas de monitoreo, contribuyen a la disminución de costos de no calidad porque:
         .row.justify-content-center
           .col-lg-7.mb-3
             ul.lista-ul.fa-lista.list-ico.mb-0
@@ -848,10 +849,10 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7(data-aos="fade-right")
-        p Teniendo en cuenta los atributos se pueden desarrollar cartas y gráficos de control para:
+        p Teniendo en cuenta los atributos, se pueden desarrollar cartas y gráficos de control para:
         h5 Fracción de unidades no conformes (Carta p)
         p La carta p se utiliza cuando la característica de calidad se presenta por la fracción no conforme de la muestra.
-        p Teniendo en cuenta que la fracción no conforme es igual al numero de artículos no conformes de la muestra respecto al número total de artículos de la muestra, y se representa:
+        p Teniendo en cuenta que la fracción no conforme es igual al número de artículos no conformes de la muestra respecto al número total de artículos de la muestra, y se representa:
         .bg1.p-3.d-flex.justify-content-center
           .formula
             span.label.fw-bold p =
@@ -861,7 +862,7 @@
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/24.png', alt='')
 
-    p Si el artículo no se ajusta al estándar en una o más de las características del estándar, se clasifica como no conforme. Los principios estadísticos fundamentales a la carta p están basados en la distribución binomial. Suponga una probabilidad de no conformidad p y que las unidades sucesivas son independientes.
+    p Si el artículo no se ajusta al estándar en una o más de las características del estándar, se clasifica como no conforme. Los principios estadísticos fundamentales de la carta p están basados en la distribución binomial. Suponga una probabilidad de no conformidad p y que las unidades sucesivas son independientes.
     p Si se selecciona una muestra aleatoria de n unidades del proceso, y X es el número de unidades del producto que son no conformes, entonces X tiene una distribución binomial con parámetros n y p.
 
     .row.justify-content-center.mb-4.d-none.d-md-block(data-aos="fade")
@@ -894,7 +895,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        p Luego de realizar los cálculos se realiza la grafica y se procede a realizar el análisis, monitoreos y seguimientos y se evalúan los resultados.
+        p Luego de realizar los cálculos se realiza la gráfica y se procede a realizar el análisis, monitoreos y seguimientos y se evalúan los resultados.
         .tarjeta.bg10.p-3.mb-4       
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
@@ -949,7 +950,7 @@
       .col-lg-1.d-none.d-lg-block
         img(src='@/assets/curso/temas/t1/26.svg', alt='')
       .col-lg-11
-        p.mb-0 Continuando con lo expresado por Barbosa (2016) “en la carta c se analiza el número total de no conformidades en una unidad. Se utiliza para determinar la ocurrencia de no conformidades en la inspección de una unidad de producto, es decir, determinar cuántas no conformidades tienen un producto. Esta carta se usa en los casos donde el tamaño del subgrupo es una unidad inspeccionada formada por un elemento o grupo de elementos que conforman la unidad estadística. Esta carta de monitoreo se construye según las siguientes expresiones” (p. 35).
+        p.mb-0 Continuando con lo expresado por Barbosa (2016), “en la carta c se analiza el número total de no conformidades en una unidad. Se utiliza para determinar la ocurrencia de no conformidades en la inspección de una unidad de producto, es decir, determinar cuántas no conformidades tiene un producto. Esta carta se usa en los casos donde el tamaño del subgrupo es una unidad inspeccionada formada por un elemento o grupo de elementos que conforman la unidad estadística. Esta carta de monitoreo se construye según las siguientes expresiones” (p. 35).
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-lg-8.mb-3.mb-lg-0
@@ -963,7 +964,7 @@
           img.w-95x.m-auto(src='@/assets/curso/temas/t1/formula4.svg', alt='')
 
     p Donde c#[sup ̅ ]  es el número promedio de no conformidades por unidad en una muestra de tamaño n dada (Barbosa, 2016, p. 36).
-    p Dentro del plan de calidad deben estar especificadas las técnicas de monitoreo, el seguimiento a realizar y las evaluaciones a través de todo el proceso de producción de la prenda, todo con el fin de asegurar la calidad, dentro de procedimientos para estandarizar el manejo de éstas tres actividades relacionadas a la calidad.
+    p Dentro del plan de calidad deben estar especificadas las técnicas de monitoreo, el seguimiento a realizar y las evaluaciones a través de todo el proceso de producción de la prenda, todo con el fin de asegurar la calidad, dentro de procedimientos para estandarizar el manejo de estas tres actividades relacionadas con la calidad.
     p Los monitoreos y el seguimiento deben estar registrados para establecer las comparaciones y reconocer el avance de calidad de los procesos contenidos en informes de calidad.
     
     .row.justify-content-center

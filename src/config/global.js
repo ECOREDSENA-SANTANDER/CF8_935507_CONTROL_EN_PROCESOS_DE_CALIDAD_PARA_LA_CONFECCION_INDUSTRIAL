@@ -100,12 +100,12 @@ export default {
     {
       termino: 'Atributo',
       significado:
-        'cualquier característica de calidad que pueda ser clasificada de forma cumple o no cumple, funciona o no funciona, pasa o no pasa, a efectos de control del proceso será considerado como un atributo (Barbosa, 2016, p. 33).',
+        'cualquier característica de calidad que pueda ser clasificada de forma cumple o no cumple, funciona o no funciona, pasa o no pasa; a efectos de control del proceso, será considerado como un atributo (Barbosa, 2016, p. 33).',
     },
     {
       termino: '<em>Blockchain</em>',
       significado:
-        'información organizada en bloques y entrelazadas en forma de cadenas, encriptada con el fin que nunca se pierda asegurando su seguridad.',
+        'información organizada en bloques y entrelazada en forma de cadenas, encriptada con el fin de que nunca se pierda, asegurando su seguridad.',
     },
     {
       termino: 'Capacidad de un proceso',
@@ -221,7 +221,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
+          nombre: 'Yineth Ibette González Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
