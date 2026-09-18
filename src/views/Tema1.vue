@@ -747,7 +747,7 @@
                 td Las prendas cumplen con las especificaciones.
               tr
                 td Menor de 1
-                td Las prendas no cumplen con las especificaciones; se deben, realizar cambios en el proceso.
+                td Las prendas no cumplen con las especificaciones; se deben realizar cambios en el proceso.
               tr
                 td Menor o igual a 0
                 td La media del proceso está fuera de las especificaciones; se deben realizar grandes cambios en el proceso.
