@@ -554,7 +554,7 @@
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-secundario.mb-3
         h5 Tabla 1. 
-        span Clasificación índices de capacidad
+        span Clasificación de índices de capacidad
       .tabla-a.tabla1.tabl-resp.color-acento-contenido
         table
           caption Fuente: Salazar (2019).
@@ -747,7 +747,7 @@
                 td Las prendas cumplen con las especificaciones.
               tr
                 td Menor de 1
-                td Las prendas no cumplen con las especificaciones; se debe, realizar cambios en el proceso.
+                td Las prendas no cumplen con las especificaciones; se deben, realizar cambios en el proceso.
               tr
                 td Menor o igual a 0
                 td La media del proceso está fuera de las especificaciones; se deben realizar grandes cambios en el proceso.
@@ -895,7 +895,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        p Luego de realizar los cálculos se realiza la gráfica y se procede a realizar el análisis, monitoreos y seguimientos y se evalúan los resultados.
+        p Luego de realizar los cálculos, se realiza la gráfica y se realiza el análisis, monitoreos y seguimientos, y se evalúan los resultados.
         .tarjeta.bg10.p-3.mb-4       
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
